@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wedding Partner Program | Temptation Jewellery — Tenerife, Canary Islands</title>
+<meta name="description" content="Refer your couples to Temptation Jewellery's wedding band collection and earn 8–15% commission on every fitting. No inventory, no risk — just a trusted vendor for your wedding planning business in Tenerife and the Canary Islands.">
+<meta name="keywords" content="wedding bands Tenerife, wedding planner partner program, jewellery referral commission, Canary Islands wedding rings, Temptation Jewellery">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://temptationjewellery.com/wedding-partners">
+
+<!-- Open Graph / link previews (WhatsApp, email, social) -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Wedding Partner Program | Temptation Jewellery">
+<meta property="og:description" content="Refer your couples to Temptation Jewellery's wedding band collection and earn on every fitting — no inventory, no risk, just a vendor your clients will thank you for.">
+<meta property="og:url" content="https://temptationjewellery.com/wedding-partners">
+<meta property="og:site_name" content="Temptation Jewellery">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Wedding Partner Program | Temptation Jewellery">
+<meta name="twitter:description" content="Earn 8–15% commission referring couples to Temptation Jewellery's wedding band collection in Tenerife.">
+
+<!-- Structured data for search engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Temptation Jewellery",
+  "description": "Wedding band jewellery retailer with five stores across Tenerife, offering a wedding planner partner program.",
+  "areaServed": ["Tenerife", "Canary Islands", "Spain"],
+  "email": "sandy@temptationjewellery.com",
+  "makesOffer": {
+    "@type": "Offer",
+    "name": "Wedding Planner Partner Program",
+    "description": "Referral commission program for wedding planners, 8\u201315% per referred couple."
+  }
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Cormorant:ital@1&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ivory:#FAF7F2;
+    --ink:#1C1A17;
+    --gold:#B8924A;
+    --gold-deep:#8F7036;
+    --rose:#7C6354;
+    --sand:#E8E2D6;
+    --sand-line:#D8D2C4;
+    --white:#FFFFFF;
+    --union-slide:560px;
+    --union-rest:46px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    background:var(--ivory);
+    color:var(--ink);
+    font-family:'Inter',sans-serif;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.6;
+  }
+
+  /* ===== MOTION ===== */
+  @keyframes ringSettle{
+    from{opacity:0;transform:translateY(22px) scale(0.94);}
+    to{opacity:1;transform:translateY(0) scale(1);}
+  }
+  @keyframes stampIn{
+    from{opacity:0;clip-path:inset(0 100% 0 0);}
+    to{opacity:1;clip-path:inset(0 0 0 0);}
+  }
+  .ring-card{opacity:0;animation:ringSettle 0.7s cubic-bezier(.2,.8,.2,1) forwards;}
+  .ring-card:first-child{animation-delay:1.9s;}
+  .ring-card:last-child{animation-delay:2.1s;}
+
+  /* The center card arrives via the full union choreography (slide in, meet, spin,
+     glow, sparkle) instead of a simple fade — this is the hero's signature moment. */
+  .ring-card-hero-center{animation:none;opacity:0;}
+  @keyframes heroUnionCenterIn{
+    0%{transform:translateX(420px) translateY(0) rotate(0deg);opacity:0;}
+    50%{transform:translateX(0) translateY(0) rotate(0deg);opacity:1;}
+    62%{transform:translateX(0) translateY(0) rotate(0deg);opacity:1;}
+    74%{transform:translateX(0) translateY(-8px) rotate(14deg);opacity:1;}
+    86%{transform:translateX(0) translateY(4px) rotate(-8deg);opacity:1;}
+    100%{transform:translateX(0) translateY(-14px) rotate(0deg);opacity:1;}
+  }
+  .hero-union-play .ring-card-hero-center{animation:heroUnionCenterIn 2.2s cubic-bezier(.2,.75,.25,1) forwards;animation-delay:0.3s;}
+
+  .hero-union-glow{
+    position:absolute;top:50%;left:50%;width:420px;height:280px;margin:-140px 0 0 -210px;
+    background:radial-gradient(circle, rgba(184,146,74,0.18) 0%, rgba(184,146,74,0) 70%);
+    pointer-events:none;opacity:0;z-index:0;
+  }
+  @keyframes heroGlowPulse{
+    0%,55%{opacity:0;transform:scale(0.8);}
+    68%{opacity:1;transform:scale(1.15);}
+    100%{opacity:0.4;transform:scale(1);}
+  }
+  .hero-union-play .hero-union-glow{animation:heroGlowPulse 2.2s ease-out forwards;animation-delay:0.3s;}
+
+  .hero-union-sparkle{
+    position:absolute;top:50%;left:50%;width:6px;height:6px;margin:-3px 0 0 -3px;
+    border-radius:50%;background:#fff;box-shadow:0 0 8px 2px rgba(255,255,255,0.9);opacity:0;z-index:3;
+  }
+  @keyframes heroSparkleBurst{
+    0%,60%{opacity:0;transform:scale(0.5);}
+    66%{opacity:1;transform:scale(2.2);}
+    78%{opacity:0;transform:scale(3.4);}
+    100%{opacity:0;}
+  }
+  .hero-union-play .hero-union-sparkle{animation:heroSparkleBurst 2.2s ease-out forwards;animation-delay:0.3s;}
+
+  .reveal{opacity:0;transform:translateY(18px);transition:opacity 0.7s cubic-bezier(.2,.8,.2,1),transform 0.7s cubic-bezier(.2,.8,.2,1);}
+  .reveal.is-visible{opacity:1;transform:translateY(0);}
+
+  .step-num{opacity:0;}
+  .step-num.is-visible{animation:stampIn 0.5s cubic-bezier(.2,.8,.2,1) forwards;}
+
+  @media (prefers-reduced-motion: reduce){
+    .ring-card,.reveal,.step-num,.ring-card-hero-center,.hero-union-glow,.hero-union-sparkle{animation:none !important;transition:none !important;}
+    .ring-card,.ring-card-hero-center{opacity:1 !important;transform:none !important;clip-path:none !important;}
+    .ring-card-hero-center{transform:translateY(-14px) !important;}
+    .hero-union-glow{opacity:0.3 !important;}
+    .hero-union-sparkle{opacity:0 !important;}
+  }
+  .wrap{max-width:1140px;margin:0 auto;padding:0 32px;}
+  h1,h2,h3{font-family:'Cormorant Garamond',serif;font-weight:600;letter-spacing:0.01em;color:var(--ink);}
+  .eyebrow{
+    font-family:'JetBrains Mono',monospace;
+    font-size:12px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    color:var(--gold-deep);
+  }
+  a{color:inherit;text-decoration:none;}
+
+  /* ===== NAV ===== */
+  nav{
+    display:flex;align-items:center;justify-content:space-between;
+    padding:28px 0;border-bottom:1px solid var(--sand-line);
+  }
+  .logo{font-family:'Cormorant Garamond',serif;font-size:22px;font-weight:600;letter-spacing:0.02em;}
+  .logo span{color:var(--gold-deep);}
+  .nav-links{display:flex;gap:36px;font-size:14px;color:var(--rose);}
+  .nav-cta{
+    font-size:13px;font-weight:500;color:var(--white);background:var(--ink);
+    padding:11px 22px;border-radius:2px;letter-spacing:0.02em;
+  }
+
+  /* ===== HERO ===== */
+  .hero{padding:88px 0 64px;}
+  .hero-grid{display:grid;grid-template-columns:1.05fr 0.95fr;gap:64px;align-items:center;}
+  .hero h1{font-size:54px;line-height:1.08;margin:18px 0 22px;}
+  .hero h1 em{font-style:italic;color:var(--gold-deep);font-weight:500;}
+  .hero p.lede{font-size:18px;color:var(--rose);max-width:440px;margin-bottom:34px;}
+  .btn-row{display:flex;align-items:center;gap:24px;}
+  .btn-primary{
+    background:var(--ink);color:var(--white);font-size:14px;font-weight:500;
+    padding:16px 30px;border-radius:2px;letter-spacing:0.02em;display:inline-block;
+  }
+  .btn-link{font-size:14px;color:var(--ink);border-bottom:1px solid var(--gold);padding-bottom:3px;}
+
+  /* ===== RING TRIO (signature visual) ===== */
+  .ring-trio{position:relative;display:flex;justify-content:center;align-items:center;gap:0;}
+  .ring-card{
+    background:var(--white);border:1px solid var(--sand-line);
+    width:148px;height:178px;display:flex;flex-direction:column;
+    align-items:center;justify-content:space-between;padding:18px 0 14px;
+    position:relative;z-index:1;
+  }
+  .ring-card-hero-center{z-index:2;box-shadow:0 18px 36px -18px rgba(28,26,23,0.25);}
+  .ring-card:first-of-type{margin-right:-1px;}
+  .ring-card:last-of-type{margin-left:-1px;}
+  .ring-card svg{width:84px;height:84px;}
+  .ring-label{font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:0.08em;color:var(--rose);text-align:center;}
+  .ring-sku{font-family:'JetBrains Mono',monospace;font-size:10px;color:#A39C8C;margin-top:2px;}
+
+  /* ===== UNION MOMENT — two rings sliding in, meeting, and spinning together ===== */
+  .union{position:relative;padding:96px 0;overflow:hidden;}
+  .union-glow{
+    position:absolute;top:50%;left:50%;width:520px;height:340px;margin:-170px 0 0 -260px;
+    background:radial-gradient(circle, rgba(184,146,74,0.16) 0%, rgba(184,146,74,0) 70%);
+    pointer-events:none;opacity:0;
+  }
+  .union-stage{position:relative;width:100%;height:200px;display:flex;align-items:center;justify-content:center;}
+  .union-ring{position:absolute;top:50%;left:50%;width:160px;height:160px;margin:-80px 0 0 -80px;opacity:0;}
+  .union-ring svg{width:100%;height:100%;filter:drop-shadow(0 6px 14px rgba(28,26,23,0.18));}
+  .union-sparkle{
+    position:absolute;top:50%;left:50%;width:6px;height:6px;margin:-3px 0 0 -3px;
+    border-radius:50%;background:#fff;box-shadow:0 0 8px 2px rgba(255,255,255,0.9);opacity:0;
+  }
+  .union-caption{text-align:center;margin-top:36px;position:relative;z-index:1;}
+  .union-caption .eyebrow{justify-content:center;display:flex;margin-bottom:10px;}
+  .union-caption p{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:22px;color:var(--rose);}
+
+  @keyframes unionSlideLeft{
+    0%{transform:translateX(calc(-1 * var(--union-slide))) translateY(0) rotate(0deg);opacity:0;}
+    45%{transform:translateX(calc(-1 * var(--union-rest))) translateY(0) rotate(0deg);opacity:1;}
+    58%{transform:translateX(calc(-1 * var(--union-rest))) translateY(0) rotate(0deg);opacity:1;}
+    68%{transform:translateX(2px) translateY(-6px) rotate(18deg);opacity:1;}
+    78%{transform:translateX(calc(-1 * var(--union-rest) * 0.4)) translateY(4px) rotate(-10deg);opacity:1;}
+    88%{transform:translateX(calc(-1 * var(--union-rest))) translateY(0) rotate(0deg);opacity:1;}
+    100%{transform:translateX(calc(-1 * var(--union-rest))) translateY(0) rotate(0deg);opacity:1;}
+  }
+  @keyframes unionSlideRight{
+    0%{transform:translateX(var(--union-slide)) translateY(0) rotate(0deg);opacity:0;}
+    45%{transform:translateX(var(--union-rest)) translateY(0) rotate(0deg);opacity:1;}
+    58%{transform:translateX(var(--union-rest)) translateY(0) rotate(0deg);opacity:1;}
+    68%{transform:translateX(-2px) translateY(6px) rotate(-18deg);opacity:1;}
+    78%{transform:translateX(calc(var(--union-rest) * 0.4)) translateY(-4px) rotate(10deg);opacity:1;}
+    88%{transform:translateX(var(--union-rest)) translateY(0) rotate(0deg);opacity:1;}
+    100%{transform:translateX(var(--union-rest)) translateY(0) rotate(0deg);opacity:1;}
+  }
+  @keyframes unionSparkleBurst{
+    0%,62%{opacity:0;transform:scale(0.5);}
+    68%{opacity:1;transform:scale(2.4);}
+    80%{opacity:0;transform:scale(3.6);}
+    100%{opacity:0;}
+  }
+  @keyframes unionGlowPulse{
+    0%,55%{opacity:0;transform:scale(0.8);}
+    68%{opacity:1;transform:scale(1.18);}
+    100%{opacity:0.45;transform:scale(1);}
+  }
+  @keyframes fadeUp{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:translateY(0);}}
+
+  .union.play .union-ring-left{animation:unionSlideLeft 3.6s cubic-bezier(.2,.75,.25,1) forwards;}
+  .union.play .union-ring-right{animation:unionSlideRight 3.6s cubic-bezier(.2,.75,.25,1) forwards;animation-delay:0.1s;}
+  .union.play .union-sparkle{animation:unionSparkleBurst 3.6s ease-out forwards;}
+  .union.play .union-glow{animation:unionGlowPulse 3.6s ease-out forwards;}
+  .union.play .union-caption{opacity:0;animation:fadeUp 0.8s ease forwards;animation-delay:3.1s;}
+
+  @media (prefers-reduced-motion: reduce){
+    .union-ring,.union-glow,.union-sparkle{opacity:1 !important;animation:none !important;}
+    .union-ring-left{transform:translateX(calc(-1 * var(--union-rest))) !important;}
+    .union-ring-right{transform:translateX(var(--union-rest)) !important;}
+    .union-glow{opacity:0.5 !important;}
+    .union-sparkle{opacity:0 !important;}
+    .union-caption{opacity:1 !important;animation:none !important;}
+  }
+
+  /* ===== STATS STRIP ===== */
+  .strip{
+    border-top:1px solid var(--sand-line);border-bottom:1px solid var(--sand-line);
+    padding:30px 0;display:flex;gap:64px;
+  }
+  .stat-num{font-family:'Cormorant Garamond',serif;font-size:30px;font-weight:600;color:var(--gold-deep);}
+  .stat-label{font-size:13px;color:var(--rose);margin-top:2px;}
+
+  /* ===== HOW IT WORKS ===== */
+  .section{padding:88px 0;}
+  .section-head{max-width:560px;margin-bottom:56px;}
+  .section-head .eyebrow{margin-bottom:14px;}
+  .section-head h2{font-size:36px;line-height:1.15;}
+  .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--sand-line);}
+  .step{padding:34px 32px 0 0;border-right:1px solid var(--sand-line);}
+  .step:last-child{border-right:none;}
+  .step-num{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:46px;color:var(--sand-line);line-height:1;margin-bottom:18px;}
+  .step h3{font-size:21px;margin-bottom:10px;}
+  .step p{font-size:14.5px;color:var(--rose);max-width:280px;}
+
+  /* ===== COMMISSION TABLE ===== */
+  .commission{background:var(--ink);color:var(--ivory);padding:88px 0;}
+  .commission .eyebrow{color:#D9B872;}
+  .commission .section-head h2{color:var(--ivory);}
+  .commission .section-head p{color:#B8AFA0;font-size:16px;max-width:480px;margin-top:14px;}
+  table{width:100%;border-collapse:collapse;}
+  thead th{
+    text-align:left;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.1em;
+    text-transform:uppercase;color:#8C8377;padding:14px 0;border-bottom:1px solid #3A372F;font-weight:400;
+  }
+  tbody td{padding:24px 0;border-bottom:1px solid #2E2B25;font-size:16px;}
+  tbody tr:last-child td{border-bottom:none;}
+  .tier-name{font-family:'Cormorant Garamond',serif;font-size:22px;font-weight:600;}
+  .tier-pct{font-family:'JetBrains Mono',monospace;font-size:22px;color:var(--gold);}
+  .tier-row.featured td{background:rgba(184,146,74,0.08);}
+  .tier-row.featured .tier-name::after{
+    content:'preferred';font-family:'Inter',sans-serif;font-size:10px;letter-spacing:0.08em;
+    text-transform:uppercase;color:var(--ink);background:var(--gold);padding:3px 9px;border-radius:2px;
+    margin-left:12px;vertical-align:middle;
+  }
+
+  /* ===== CATALOG PREVIEW ===== */
+  .catalog-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--sand-line);border:1px solid var(--sand-line);}
+  .catalog-item{background:var(--white);padding:30px 20px 22px;display:flex;flex-direction:column;align-items:center;}
+  .catalog-item svg{width:64px;height:64px;margin-bottom:14px;}
+  .catalog-item .ring-sku{font-size:11px;}
+  .catalog-item .ring-label{font-size:11px;margin-top:3px;}
+
+  /* ===== FORM ===== */
+  .form-section{padding:88px 0 110px;}
+  .form-grid{display:grid;grid-template-columns:0.85fr 1.15fr;gap:72px;}
+  .form-grid .section-head{margin-bottom:0;}
+  .form-grid .section-head p{font-size:16px;color:var(--rose);margin-top:16px;max-width:380px;}
+  form{display:grid;gap:18px;}
+  .field-row{display:grid;grid-template-columns:1fr 1fr;gap:18px;}
+  label{font-size:12.5px;letter-spacing:0.04em;text-transform:uppercase;color:var(--rose);display:block;margin-bottom:7px;}
+  input,select{
+    width:100%;background:var(--white);border:1px solid var(--sand-line);
+    padding:13px 14px;font-size:15px;font-family:'Inter',sans-serif;color:var(--ink);border-radius:2px;
+  }
+  input:focus,select:focus{outline:none;border-color:var(--gold);}
+  .submit-btn{
+    background:var(--ink);color:var(--white);font-size:14px;font-weight:500;
+    padding:16px 30px;border:none;border-radius:2px;letter-spacing:0.02em;
+    cursor:pointer;justify-self:start;margin-top:8px;
+  }
+  .direct-contact{font-size:14.5px;color:var(--rose);margin-top:20px;}
+  .direct-contact a{color:var(--gold-deep);border-bottom:1px solid var(--gold);}
+  .form-note{font-size:12.5px;color:#A39C8C;margin-top:10px;}
+
+  /* ===== FOOTER ===== */
+  footer{border-top:1px solid var(--sand-line);padding:40px 0;display:flex;justify-content:space-between;align-items:center;}
+  .footer-email{color:var(--gold-deep);border-bottom:1px solid var(--gold);}
+  footer .logo{font-size:17px;}
+  footer .meta{font-size:13px;color:#A39C8C;}
+
+  @media (max-width:880px){
+    .hero-grid{grid-template-columns:1fr;}
+    .hero h1{font-size:40px;}
+    .steps{grid-template-columns:1fr;}
+    .step{border-right:none;border-bottom:1px solid var(--sand-line);padding-bottom:32px;margin-bottom:32px;}
+    .catalog-grid{grid-template-columns:repeat(2,1fr);}
+    .form-grid{grid-template-columns:1fr;}
+    .field-row{grid-template-columns:1fr;}
+    .nav-links{display:none;}
+    .strip{flex-wrap:wrap;gap:32px;}
+    .union{padding:64px 0;}
+    .union-stage{height:140px;}
+    .union-ring{width:110px;height:110px;margin:-55px 0 0 -55px;}
+    .union-caption p{font-size:18px;}
+    :root{--union-slide:280px;--union-rest:32px;}
+  }
+
+  /* ===== PHONE (375–480px) =====
+     The 880px breakpoint above targets tablet; phones need their own
+     numbers because the hero ring trio, union rings, and commission
+     table do not compress gracefully at sub-480px widths. */
+  @media (max-width:480px){
+    .wrap{padding:0 18px;}
+
+    nav{padding:20px 0;}
+    .logo{font-size:18px;}
+    .nav-cta{font-size:12px;padding:10px 14px;white-space:nowrap;}
+
+    .hero{padding:56px 0 44px;}
+    .hero h1{font-size:30px;}
+    .hero p.lede{font-size:16px;max-width:none;}
+    .btn-row{flex-wrap:wrap;gap:16px;}
+
+    /* Hero ring trio: 3 fixed-148px cards (444px) cannot fit a 375–414px
+       screen. Scale cards and their SVGs down together so the trio's
+       proportions (and the union animation that targets them) still read
+       correctly, just smaller. */
+    .ring-card{width:92px;height:118px;padding:12px 0 10px;}
+    .ring-card svg{width:52px;height:52px;}
+    .ring-label{font-size:9px;}
+    .ring-sku{font-size:8.5px;}
+    .hero-union-glow{width:260px;height:180px;margin:-90px 0 0 -130px;}
+
+    @keyframes heroUnionCenterIn{
+      0%{transform:translateX(140px) translateY(0) rotate(0deg);opacity:0;}
+      50%{transform:translateX(0) translateY(0) rotate(0deg);opacity:1;}
+      62%{transform:translateX(0) translateY(0) rotate(0deg);opacity:1;}
+      74%{transform:translateX(0) translateY(-6px) rotate(14deg);opacity:1;}
+      86%{transform:translateX(0) translateY(3px) rotate(-8deg);opacity:1;}
+      100%{transform:translateX(0) translateY(-10px) rotate(0deg);opacity:1;}
+    }
+
+    .strip{gap:22px 28px;}
+    .stat-num{font-size:24px;}
+
+    /* Union moment stage: shrink rings and slide distance so the tangle
+       motion stays inside a narrow viewport instead of poking past it. */
+    .union{padding:48px 0;}
+    .union-stage{height:104px;}
+    .union-ring{width:80px;height:80px;margin:-40px 0 0 -40px;}
+    .union-caption p{font-size:16px;}
+    :root{--union-slide:130px;--union-rest:23px;}
+
+    .section{padding:56px 0;}
+    .section-head h2{font-size:26px;}
+
+    /* Commission table -> stacked cards. Headers are hidden and each
+       cell becomes a labeled row using its data-label attribute, since
+       a 3-column table cannot compress to phone width without
+       truncating or forcing horizontal scroll. */
+    .commission{padding:56px 0;}
+    table,thead,tbody,th,td,tr{display:block;}
+    thead{display:none;}
+    tbody tr{border:1px solid #3A372F;border-radius:4px;padding:16px 16px 4px;margin-bottom:14px;}
+    tbody tr:last-child{margin-bottom:0;}
+    tbody td{border-bottom:none;padding:8px 0;display:flex;justify-content:space-between;align-items:center;gap:12px;}
+    tbody td::before{
+      content:attr(data-label);font-family:'JetBrains Mono',monospace;font-size:10.5px;
+      letter-spacing:0.08em;text-transform:uppercase;color:#8C8377;
+    }
+    .tier-row.featured .tier-name::after{margin-left:auto;}
+
+    .catalog-grid{grid-template-columns:1fr 1fr;}
+    .catalog-item{padding:22px 12px 18px;}
+    .catalog-item svg{width:48px;height:48px;}
+
+    .form-section{padding:56px 0 64px;}
+    .submit-btn{width:100%;justify-self:stretch;text-align:center;}
+
+    footer{flex-direction:column;gap:10px;text-align:center;}
+  }
+
+  /* Safety net: after the structural fixes above, this guarantees no
+     future stray element can re-introduce a page-wide horizontal
+     scrollbar / forced zoom-out on mobile. */
+  html,body{overflow-x:hidden;}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <nav>
+    <div class="logo">temptation <span>jewellery</span></div>
+    <div class="nav-links">
+      <a href="#how">How it works</a>
+      <a href="#commission">Commission</a>
+      <a href="#catalog">Catalog</a>
+    </div>
+    <a href="#apply" class="nav-cta">Become a partner</a>
+  </nav>
+</div>
+
+<!-- HERO -->
+<div class="wrap hero">
+  <div class="hero-grid">
+    <div>
+      <div class="eyebrow">Wedding partner program</div>
+      <h1>Give every couple<br>a band worth <em>remembering</em>.</h1>
+      <p class="lede">Refer your couples to Temptation Jewellery's wedding band collection and earn on every fitting — no inventory, no risk, just a vendor your clients will thank you for.</p>
+      <div class="btn-row">
+        <a href="#apply" class="btn-primary">Become a partner</a>
+        <a href="#catalog" class="btn-link">View the catalog</a>
+      </div>
+    </div>
+    <div class="ring-trio">
+      <div class="hero-union-glow"></div>
+      <div class="ring-card">
+        <svg viewBox="0 0 100 100" fill="none"><circle cx="50" cy="50" r="34" stroke="#C9A050" stroke-width="7"/><circle cx="50" cy="50" r="34" stroke="#E8D4A8" stroke-width="1.5"/></svg>
+        <div>
+          <div class="ring-label">yellow gold</div>
+          <div class="ring-sku">20108_1</div>
+        </div>
+      </div>
+      <div class="ring-card ring-card-hero-center">
+        <svg viewBox="0 0 100 100" fill="none"><circle cx="50" cy="50" r="34" stroke="#A8A8A0" stroke-width="7"/><circle cx="50" cy="50" r="34" stroke="#E2E0DA" stroke-width="1.5"/></svg>
+        <div class="hero-union-sparkle"></div>
+        <div>
+          <div class="ring-label">white gold</div>
+          <div class="ring-sku">20108_2</div>
+        </div>
+      </div>
+      <div class="ring-card">
+        <svg viewBox="0 0 100 100" fill="none"><circle cx="50" cy="50" r="34" stroke="#B8836F" stroke-width="7"/><circle cx="50" cy="50" r="34" stroke="#E6C9BD" stroke-width="1.5"/></svg>
+        <div>
+          <div class="ring-label">rose gold</div>
+          <div class="ring-sku">20108_3</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- STATS STRIP -->
+<div class="wrap">
+  <div class="strip reveal">
+    <div><div class="stat-num">5</div><div class="stat-label">Stores across Tenerife</div></div>
+    <div><div class="stat-num">45+</div><div class="stat-label">Band designs in collection</div></div>
+    <div><div class="stat-num">8–15%</div><div class="stat-label">Referral commission</div></div>
+    <div><div class="stat-num">48h</div><div class="stat-label">Sample turnaround</div></div>
+  </div>
+</div>
+
+<!-- UNION MOMENT -->
+<div class="wrap union" id="union">
+  <div class="union-glow"></div>
+  <div class="union-stage">
+    <div class="union-ring union-ring-left">
+      <svg viewBox="0 0 100 100" fill="none">
+        <circle cx="50" cy="50" r="34" stroke="#C9A050" stroke-width="7"/>
+        <circle cx="50" cy="50" r="34" stroke="#F0DDA8" stroke-width="2"/>
+      </svg>
+    </div>
+    <div class="union-ring union-ring-right">
+      <svg viewBox="0 0 100 100" fill="none">
+        <circle cx="50" cy="50" r="34" stroke="#A8A8A0" stroke-width="7"/>
+        <circle cx="50" cy="50" r="34" stroke="#ECEAE4" stroke-width="2"/>
+      </svg>
+    </div>
+    <div class="union-sparkle"></div>
+  </div>
+  <div class="union-caption">
+    <div class="eyebrow">Two become one</div>
+    <p>Every referral is the start of a couple's story.</p>
+  </div>
+</div>
+
+<!-- HOW IT WORKS -->
+<div class="wrap section" id="how">
+  <div class="section-head reveal">
+    <div class="eyebrow">How it works</div>
+    <h2>Three steps, from referral to commission.</h2>
+  </div>
+  <div class="steps reveal">
+    <div class="step">
+      <div class="step-num">01</div>
+      <h3>You refer</h3>
+      <p>Recommend Temptation Jewellery to your couple and share your unique partner code — it takes one line in your vendor list.</p>
+    </div>
+    <div class="step">
+      <div class="step-num">02</div>
+      <h3>They visit</h3>
+      <p>Your couple books a fitting in-store or browses online. Their visit is tracked automatically against your code.</p>
+    </div>
+    <div class="step">
+      <div class="step-num">03</div>
+      <h3>You earn</h3>
+      <p>Once the order is placed, your commission is calculated and paid out — no invoicing, no chasing.</p>
+    </div>
+  </div>
+</div>
+
+<!-- COMMISSION -->
+<div class="commission" id="commission">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div class="eyebrow">Commission structure</div>
+      <h2>The more couples you send, the more you earn.</h2>
+      <p>Tiers reset annually and apply automatically — no renegotiation needed as your referral volume grows.</p>
+    </div>
+    <table class="reveal">
+      <thead>
+        <tr><th>Tier</th><th>Referral volume</th><th>Commission</th></tr>
+      </thead>
+      <tbody>
+        <tr class="tier-row">
+          <td class="tier-name" data-label="Tier">Starter</td>
+          <td data-label="Referral volume">1–4 couples / year</td>
+          <td class="tier-pct" data-label="Commission">8%</td>
+        </tr>
+        <tr class="tier-row">
+          <td class="tier-name" data-label="Tier">Established</td>
+          <td data-label="Referral volume">5–11 couples / year</td>
+          <td class="tier-pct" data-label="Commission">11%</td>
+        </tr>
+        <tr class="tier-row featured">
+          <td class="tier-name" data-label="Tier">Preferred</td>
+          <td data-label="Referral volume">12+ couples / year</td>
+          <td class="tier-pct" data-label="Commission">15%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- CATALOG PREVIEW -->
+<div class="wrap section" id="catalog">
+  <div class="section-head reveal">
+    <div class="eyebrow">From the collection</div>
+    <h2>A catalog built for every couple's story.</h2>
+  </div>
+  <div class="catalog-grid reveal">
+    <div class="catalog-item">
+      <svg viewBox="0 0 100 100" fill="none"><circle cx="50" cy="50" r="32" stroke="#C9A050" stroke-width="6"/></svg>
+      <div class="ring-sku">475</div>
+      <div class="ring-label">yellow gold</div>
+    </div>
+    <div class="catalog-item">
+      <svg viewBox="0 0 100 100" fill="none"><circle cx="50" cy="50" r="32" stroke="#A8A8A0" stroke-width="6"/></svg>
+      <div class="ring-sku">402</div>
+      <div class="ring-label">white gold</div>
+    </div>
+    <div class="catalog-item">
+      <svg viewBox="0 0 100 100" fill="none"><circle cx="50" cy="50" r="32" stroke="#B8836F" stroke-width="6"/></svg>
+      <div class="ring-sku">40108_3</div>
+      <div class="ring-label">rose gold</div>
+    </div>
+    <div class="catalog-item">
+      <svg viewBox="0 0 100 100" fill="none"><circle cx="50" cy="50" r="32" stroke="#C9A050" stroke-width="5"/><circle cx="50" cy="50" r="32" stroke="#A8A8A0" stroke-width="2" stroke-dasharray="2 4"/></svg>
+      <div class="ring-sku">691</div>
+      <div class="ring-label">two-tone</div>
+    </div>
+  </div>
+</div>
+
+<!-- FORM -->
+<div class="wrap form-section" id="apply">
+  <div class="form-grid reveal">
+    <div class="section-head">
+      <div class="eyebrow">Apply now</div>
+      <h2>Become a Temptation Jewellery partner.</h2>
+      <p>Tell us about your business and we'll set up your partner code within 48 hours — including sample requests for the bands your couples ask about most.</p>
+      <p class="direct-contact">Prefer email? Reach us directly at <a href="mailto:sandy@temptationjewellery.com">sandy@temptationjewellery.com</a>.</p>
+    </div>
+    <form id="partnerForm">
+      <div class="field-row">
+        <div>
+          <label for="fname">Full name</label>
+          <input id="fname" type="text" placeholder="Your name" required>
+        </div>
+        <div>
+          <label for="bname">Business name</label>
+          <input id="bname" type="text" placeholder="Planning business" required>
+        </div>
+      </div>
+      <div class="field-row">
+        <div>
+          <label for="email">Email</label>
+          <input id="email" type="email" placeholder="you@example.com" required>
+        </div>
+        <div>
+          <label for="phone">Phone</label>
+          <input id="phone" type="tel" placeholder="+34 ...">
+        </div>
+      </div>
+      <div class="field-row">
+        <div>
+          <label for="region">Region</label>
+          <select id="region">
+            <option>Tenerife</option>
+            <option>Gran Canaria</option>
+            <option>Lanzarote</option>
+            <option>Mainland Spain</option>
+            <option>International</option>
+          </select>
+        </div>
+        <div>
+          <label for="volume">Expected couples / year</label>
+          <select id="volume">
+            <option>1–4</option>
+            <option>5–11</option>
+            <option>12+</option>
+          </select>
+        </div>
+      </div>
+      <button class="submit-btn" type="submit">Submit application</button>
+      <p class="form-note">Submitting opens an email to sandy@temptationjewellery.com with your details pre-filled.</p>
+    </form>
+  </div>
+</div>
+
+<div class="wrap">
+  <footer>
+    <div class="logo">temptation <span>jewellery</span></div>
+    <div class="meta">
+      Wedding Partner Program · Tenerife, Canary Islands ·
+      <a href="mailto:sandy@temptationjewellery.com" class="footer-email">sandy@temptationjewellery.com</a>
+    </div>
+  </footer>
+</div>
+
+<script>
+(function(){
+  // Hero union moment: fires immediately on load since the hero is visible from the start.
+  // Guarded by the same reduced-motion check used below.
+  if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+    var heroTrio = document.querySelector('.ring-trio');
+    if(heroTrio) heroTrio.classList.add('hero-union-play');
+  }
+})();
+
+(function(){
+  if(window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var observer = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry){
+      if(entry.isIntersecting){
+        entry.target.classList.add('is-visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  },{threshold:0.15});
+  document.querySelectorAll('.reveal').forEach(function(el){observer.observe(el);});
+
+  var stepObserver = new IntersectionObserver(function(entries){
+    entries.forEach(function(entry, i){
+      if(entry.isIntersecting){
+        var nums = Array.from(document.querySelectorAll('.step-num'));
+        nums.forEach(function(num, idx){
+          setTimeout(function(){num.classList.add('is-visible');}, idx*140);
+        });
+        stepObserver.disconnect();
+      }
+    });
+  },{threshold:0.3});
+  var stepsEl = document.querySelector('.steps');
+  if(stepsEl) stepObserver.observe(stepsEl);
+
+  // Union moment: replays every time it scrolls back into view.
+  // Two independent detection mechanisms run together for reliability:
+  // an IntersectionObserver (primary) and a throttled scroll listener (fallback).
+  var unionEl = document.querySelector('.union');
+  if(unionEl){
+    var unionHasRun = false;
+
+    function unionPlay(){
+      unionEl.classList.remove('play');
+      void unionEl.offsetWidth; // force reflow so the animation restarts cleanly
+      unionEl.classList.add('play');
+    }
+
+    function unionIsInView(){
+      var r = unionEl.getBoundingClientRect();
+      var vh = window.innerHeight || document.documentElement.clientHeight;
+      var visibleTop = Math.max(r.top, 0);
+      var visibleBottom = Math.min(r.bottom, vh);
+      var visibleHeight = Math.max(0, visibleBottom - visibleTop);
+      return visibleHeight > r.height * 0.35;
+    }
+
+    if('IntersectionObserver' in window){
+      var unionObserver = new IntersectionObserver(function(entries){
+        entries.forEach(function(entry){
+          if(entry.isIntersecting && entry.intersectionRatio > 0.35){
+            if(!unionHasRun){ unionHasRun = true; unionPlay(); }
+          } else {
+            unionHasRun = false;
+          }
+        });
+      },{threshold:[0,0.1,0.2,0.35,0.5,0.75]});
+      unionObserver.observe(unionEl);
+    }
+
+    var unionTicking = false;
+    window.addEventListener('scroll', function(){
+      if(!unionTicking){
+        window.requestAnimationFrame(function(){
+          var inView = unionIsInView();
+          if(inView && !unionHasRun){ unionHasRun = true; unionPlay(); }
+          else if(!inView){ unionHasRun = false; }
+          unionTicking = false;
+        });
+        unionTicking = true;
+      }
+    });
+  }
+
+  // Partner inquiry form: composes a mailto: to sandy@temptationjewellery.com
+  // with the entered details, since no backend is wired up yet.
+  var partnerForm = document.getElementById('partnerForm');
+  if(partnerForm){
+    partnerForm.addEventListener('submit', function(e){
+      e.preventDefault();
+      var fname = document.getElementById('fname').value.trim();
+      var bname = document.getElementById('bname').value.trim();
+      var email = document.getElementById('email').value.trim();
+      var phone = document.getElementById('phone').value.trim();
+      var region = document.getElementById('region').value;
+      var volume = document.getElementById('volume').value;
+
+      var subject = 'Wedding Partner Program inquiry — ' + (bname || fname);
+      var body =
+        'Name: ' + fname + '\n' +
+        'Business: ' + bname + '\n' +
+        'Email: ' + email + '\n' +
+        'Phone: ' + (phone || '—') + '\n' +
+        'Region: ' + region + '\n' +
+        'Expected couples / year: ' + volume;
+
+      var mailto = 'mailto:sandy@temptationjewellery.com'
+        + '?subject=' + encodeURIComponent(subject)
+        + '&body=' + encodeURIComponent(body);
+
+      window.location.href = mailto;
+    });
+  }
+})();
+</script>
+</body>
+</html>
