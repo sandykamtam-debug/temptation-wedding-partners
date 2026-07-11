@@ -1,0 +1,1029 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catálogo de Alianzas de Boda — Wedding Band Catalog | Temptation Jewellery</title>
+<meta name="description" content="Full wedding band catalog for Temptation Jewellery partners — browse 73 designs in yellow, white, rose and two-tone gold.">
+<style>
+  :root {
+    --gold: #B08D57;
+    --dark: #1C1C1C;
+    --cream: #FAF7F2;
+    --line: #E4DACB;
+    --grey: #6B6B6B;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--cream);
+    color: var(--dark);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+
+  header.site {
+    position: sticky; top: 0; z-index: 20;
+    background: rgba(250,247,242,0.92);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--line);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 28px;
+  }
+  header.site .brand {
+    display: flex; align-items: center; gap: 10px;
+    font-family: Georgia, "Times New Roman", serif;
+    letter-spacing: 0.02em;
+    font-size: 18px;
+    text-decoration: none;
+    color: var(--dark);
+  }
+  header.site .brand img { height: 30px; width: auto; display: block; }
+  header.site nav { display: flex; gap: 22px; font-size: 13.5px; }
+  header.site nav a { text-decoration: none; color: var(--grey); border-bottom: 1px solid transparent; padding-bottom: 2px; transition: color .15s, border-color .15s; }
+  header.site nav a:hover { color: var(--gold); border-color: var(--gold); }
+  header.site .back {
+    font-size: 13px; border: 1px solid var(--gold); color: var(--gold);
+    padding: 7px 14px; border-radius: 999px; text-decoration: none; white-space: nowrap;
+  }
+  header.site .back:hover { background: var(--gold); color: #fff; }
+
+  .hero {
+    max-width: 780px; margin: 0 auto; padding: 64px 28px 40px; text-align: center;
+  }
+  .hero .eyebrow {
+    text-transform: uppercase; letter-spacing: .14em; font-size: 11.5px; color: var(--gold); font-weight: 600;
+  }
+  .hero h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 400;
+    font-size: clamp(30px, 5vw, 44px);
+    margin: 14px 0 6px;
+    line-height: 1.15;
+  }
+  .hero h1 .en { display: block; font-size: 0.46em; color: var(--grey); font-style: italic; margin-top: 8px; }
+  .hero p.sub { color: var(--grey); font-size: 15px; max-width: 560px; margin: 18px auto 0; line-height: 1.6; }
+  .hero .stats {
+    display: flex; justify-content: center; gap: 40px; margin-top: 34px; flex-wrap: wrap;
+  }
+  .hero .stats div { text-align: center; }
+  .hero .stats .num { font-family: Georgia, serif; font-size: 26px; color: var(--dark); }
+  .hero .stats .lab { font-size: 11.5px; color: var(--grey); text-transform: uppercase; letter-spacing: .06em; margin-top: 2px; }
+
+  .subnav {
+    position: sticky; top: 61px; z-index: 15;
+    background: var(--cream);
+    border-bottom: 1px solid var(--line);
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 12px 28px;
+  }
+  .subnav a {
+    display: inline-block; text-decoration: none; font-size: 12.5px; color: var(--grey);
+    border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; margin-right: 8px;
+    transition: all .15s;
+  }
+  .subnav a:hover { border-color: var(--gold); color: var(--gold); }
+
+  .collection { max-width: 1180px; margin: 0 auto; padding: 56px 28px 8px; scroll-margin-top: 120px; }
+  .collection-head { border-bottom: 1px solid var(--line); padding-bottom: 14px; margin-bottom: 28px; display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 6px; }
+  .collection-head h2 { font-family: Georgia, serif; font-weight: 400; font-size: 22px; margin: 0; color: var(--dark); }
+  .collection-head-en { margin: 0; font-size: 12.5px; color: var(--grey); font-style: italic; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 22px;
+  }
+  .card {
+    background: #fff; border: 1px solid var(--line); border-radius: 4px; overflow: hidden;
+    display: flex; flex-direction: column;
+    transition: box-shadow .2s, transform .2s;
+  }
+  .card:hover { box-shadow: 0 10px 26px rgba(28,28,28,0.08); transform: translateY(-2px); }
+  .card-img { aspect-ratio: 1 / 1; display: flex; align-items: center; justify-content: center; padding: 14px; background: #fff; }
+  .card-img img { max-width: 100%; max-height: 100%; object-fit: contain; }
+  .card-meta { padding: 10px 14px 14px; border-top: 1px solid var(--line); }
+  .card-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+  .ref { font-weight: 700; color: var(--gold); font-size: 13px; }
+  .metal-tag { font-size: 10px; text-transform: uppercase; letter-spacing: .04em; color: var(--grey); border: 1px solid var(--line); border-radius: 999px; padding: 2px 8px; white-space: nowrap; }
+  .caption { margin: 6px 0 0; font-size: 11.5px; color: var(--grey); }
+  .caption .sep { color: var(--line); margin: 0 2px; }
+
+  footer.site {
+    margin-top: 72px; border-top: 1px solid var(--line);
+    padding: 36px 28px 44px; text-align: center; color: var(--grey); font-size: 12.5px;
+  }
+  footer.site .brand-line { font-family: Georgia, serif; color: var(--dark); font-size: 15px; margin-bottom: 8px; }
+  footer.site a { color: var(--gold); text-decoration: none; }
+
+  @media (max-width: 640px) {
+    header.site nav { display: none; }
+    .hero { padding: 44px 20px 28px; }
+    .collection { padding: 40px 20px 8px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <a class="brand" href="#top"><img src="images/temptation-logo.png" alt="Temptation Jewellery"></a>
+  <nav>
+    <a href="https://temptation-wedding-partners.pages.dev/#how">How it works</a>
+    <a href="https://temptation-wedding-partners.pages.dev/#commission">Commission</a>
+    <a href="#top">Catalog</a>
+  </nav>
+  <a class="back" href="https://temptation-wedding-partners.pages.dev/">← Partner Program</a>
+</header>
+
+<div id="top" class="hero">
+  <p class="eyebrow">Temptation Jewellery</p>
+  <h1>Catálogo de Alianzas de Boda<span class="en">Wedding Band Catalog</span></h1>
+  <p class="sub">
+    73 diseños en oro amarillo, blanco, rosa y bicolor — para que cada pareja
+    encuentre la suya. Browse the full collection below and share your favourites with your couple.
+  </p>
+  <div class="stats">
+    <div><div class="num">73</div><div class="lab">Band designs</div></div>
+    <div><div class="num">4</div><div class="lab">Metal tones</div></div>
+    <div><div class="num">48h</div><div class="lab">Sample turnaround</div></div>
+  </div>
+</div>
+
+<nav class="subnav">
+  <a href="#novedades-2026">Novedades 2026</a>
+<a href="#novedades-2026--colección-bicolor">Novedades 2026 – Colección Bicolor</a>
+<a href="#novedades-2026--oro-blanco">Novedades 2026 – Oro Blanco</a>
+<a href="#colección-clásica--oro-amarillo,-blanco-y-rosa">Colección Clásica – Oro Amarillo, Blanco y Rosa</a>
+<a href="#alianzas-de-boda-2025">Alianzas de Boda 2025</a>
+<a href="#estilos-adicionales">Estilos Adicionales</a>
+</nav>
+
+
+    <section class="collection" id="novedades-2026">
+      <div class="collection-head">
+        <h2>Novedades 2026</h2>
+        <p class="collection-head-en">New for 2026</p>
+      </div>
+      <div class="grid">
+        
+      <article class="card">
+        <div class="card-img"><img src="images/475.jpg" alt="Ref. 475 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 475</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/467.jpg" alt="Ref. 467 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 467</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/759.jpg" alt="Ref. 759 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 759</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/595.jpg" alt="Ref. 595 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 595</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/563.jpg" alt="Ref. 563 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 563</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/699.jpg" alt="Ref. 699 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 699</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/406.jpg" alt="Ref. 406 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 406</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/707.jpg" alt="Ref. 707 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 707</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/659.jpg" alt="Ref. 659 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 659</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/104.jpg" alt="Ref. 104 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 104</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/312.jpg" alt="Ref. 312 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 312</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/324.jpg" alt="Ref. 324 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 324</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+      </div>
+    </section>
+
+    <section class="collection" id="novedades-2026--colección-bicolor">
+      <div class="collection-head">
+        <h2>Novedades 2026 – Colección Bicolor</h2>
+        <p class="collection-head-en">New for 2026 – Two-Tone Collection</p>
+      </div>
+      <div class="grid">
+        
+      <article class="card">
+        <div class="card-img"><img src="images/294.jpg" alt="Ref. 294 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 294</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/691.jpg" alt="Ref. 691 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 691</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/702.jpg" alt="Ref. 702 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 702</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/825.jpg" alt="Ref. 825 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 825</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/706.jpg" alt="Ref. 706 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 706</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/945.jpg" alt="Ref. 945 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 945</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/899.jpg" alt="Ref. 899 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 899</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/409.jpg" alt="Ref. 409 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 409</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/700.jpg" alt="Ref. 700 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 700</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/660.jpg" alt="Ref. 660 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 660</span>
+            <span class="metal-tag">two-tone</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+      </div>
+    </section>
+
+    <section class="collection" id="novedades-2026--oro-blanco">
+      <div class="collection-head">
+        <h2>Novedades 2026 – Oro Blanco</h2>
+        <p class="collection-head-en">New for 2026 – White Gold</p>
+      </div>
+      <div class="grid">
+        
+      <article class="card">
+        <div class="card-img"><img src="images/704.jpg" alt="Ref. 704 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 704</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/564.jpg" alt="Ref. 564 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 564</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/568.jpg" alt="Ref. 568 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 568</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/468.jpg" alt="Ref. 468 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 468</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/476.jpg" alt="Ref. 476 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 476</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/708.jpg" alt="Ref. 708 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 708</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/760.jpg" alt="Ref. 760 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 760</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/408.jpg" alt="Ref. 408 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 408</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/472.jpg" alt="Ref. 472 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 472</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/484.jpg" alt="Ref. 484 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 484</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/688.jpg" alt="Ref. 688 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 688</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/65011.jpg" alt="Ref. 65011 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 65011</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+      </div>
+    </section>
+
+    <section class="collection" id="colección-clásica--oro-amarillo,-blanco-y-rosa">
+      <div class="collection-head">
+        <h2>Colección Clásica – Oro Amarillo, Blanco y Rosa</h2>
+        <p class="collection-head-en">Classic Collection – Yellow, White & Rose Gold</p>
+      </div>
+      <div class="grid">
+        
+      <article class="card">
+        <div class="card-img"><img src="images/20108_1.jpg" alt="Ref. 20108_1 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 20108_1</span>
+            <span class="metal-tag">yellow gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/20108_2.jpg" alt="Ref. 20108_2 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 20108_2</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/20108_3.jpg" alt="Ref. 20108_3 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 20108_3</span>
+            <span class="metal-tag">rose gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/25108_1.jpg" alt="Ref. 25108_1 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 25108_1</span>
+            <span class="metal-tag">yellow gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/25108_2.jpg" alt="Ref. 25108_2 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 25108_2</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/25108_3.jpg" alt="Ref. 25108_3 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 25108_3</span>
+            <span class="metal-tag">rose gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/40108_1.jpg" alt="Ref. 40108_1 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 40108_1</span>
+            <span class="metal-tag">yellow gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/40108_2.jpg" alt="Ref. 40108_2 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 40108_2</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/40108_3.jpg" alt="Ref. 40108_3 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 40108_3</span>
+            <span class="metal-tag">rose gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/50111_1.jpg" alt="Ref. 50111_1 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 50111_1</span>
+            <span class="metal-tag">yellow gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/50111_2.jpg" alt="Ref. 50111_2 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 50111_2</span>
+            <span class="metal-tag">white gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/50111_3.jpg" alt="Ref. 50111_3 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 50111_3</span>
+            <span class="metal-tag">rose gold</span>
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+      </div>
+    </section>
+
+    <section class="collection" id="alianzas-de-boda-2025">
+      <div class="collection-head">
+        <h2>Alianzas de Boda 2025</h2>
+        <p class="collection-head-en">Wedding Bands 2025</p>
+      </div>
+      <div class="grid">
+        
+      <article class="card">
+        <div class="card-img"><img src="images/401.jpg" alt="Ref. 401 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 401</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/471.jpg" alt="Ref. 471 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 471</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/687.jpg" alt="Ref. 687 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 687</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/567.jpg" alt="Ref. 567 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 567</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/483.jpg" alt="Ref. 483 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 483</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/798.jpg" alt="Ref. 798 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 798</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/714.jpg" alt="Ref. 714 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 714</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/710.jpg" alt="Ref. 710 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 710</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/402.jpg" alt="Ref. 402 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 402</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/796.jpg" alt="Ref. 796 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 796</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/596.jpg" alt="Ref. 596 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 596</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/608.jpg" alt="Ref. 608 – Wedding Band" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. 608</span>
+            
+          </div>
+          <p class="caption">Alianza de Boda <span class="sep">/</span> Wedding Band</p>
+        </div>
+      </article>
+      </div>
+    </section>
+
+    <section class="collection" id="estilos-adicionales">
+      <div class="collection-head">
+        <h2>Estilos Adicionales</h2>
+        <p class="collection-head-en">Additional Styles</p>
+      </div>
+      <div class="grid">
+        
+      <article class="card">
+        <div class="card-img"><img src="images/AD-01.png" alt="Ref. AD-01 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-01</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-02.png" alt="Ref. AD-02 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-02</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-03.png" alt="Ref. AD-03 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-03</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-04.png" alt="Ref. AD-04 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-04</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-05.png" alt="Ref. AD-05 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-05</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-06.png" alt="Ref. AD-06 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-06</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-07.png" alt="Ref. AD-07 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-07</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-08.png" alt="Ref. AD-08 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-08</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-09.png" alt="Ref. AD-09 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-09</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-10.png" alt="Ref. AD-10 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-10</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-11.png" alt="Ref. AD-11 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-11</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-12.png" alt="Ref. AD-12 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-12</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-13.png" alt="Ref. AD-13 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-13</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-14.png" alt="Ref. AD-14 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-14</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-img"><img src="images/AD-15.png" alt="Ref. AD-15 – Additional Style" loading="lazy"></div>
+        <div class="card-meta">
+          <div class="card-top">
+            <span class="ref">Ref. AD-15</span>
+            
+          </div>
+          <p class="caption">Estilo Adicional <span class="sep">/</span> Additional Style</p>
+        </div>
+      </article>
+      </div>
+    </section>
+
+<footer class="site">
+  <div class="brand-line">temptation jewellery</div>
+  <div>C/ Juan XXIII, 16, 38650 Los Cristianos, Santa Cruz de Tenerife</div>
+  <div>+34 922 792 126 &nbsp;&bull;&nbsp; <a href="mailto:sandy@temptationjewellery.com">sandy@temptationjewellery.com</a></div>
+</footer>
+
+</body>
+</html>
