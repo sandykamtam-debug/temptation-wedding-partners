@@ -469,12 +469,12 @@ footer .meta a{color:var(--gold-deep);}
       <div class="tier-card">
         <h3>Starter</h3>
         <div class="tier-vol">1&ndash;4 couples / year</div>
-        <div class="tier-pct" data-count="8">0<sup>%</sup></div>
+        <div class="tier-pct" data-count="10">0<sup>&euro;</sup></div>
       </div>
       <div class="tier-card">
         <h3>Established</h3>
         <div class="tier-vol">5&ndash;11 couples / year</div>
-        <div class="tier-pct" data-count="11">0<sup>%</sup></div>
+        <div class="tier-pct" data-count="12.5">0<sup>&euro;</sup></div>
       </div>
       <div class="tier-card featured">
         <span class="tier-badge">Preferred</span>
@@ -582,7 +582,7 @@ footer .meta a{color:var(--gold-deep);}
         if(e.isIntersecting && !counted){
           counted = true;
           document.querySelectorAll('.tier-pct').forEach(function(el){
-            var target = parseInt(el.getAttribute('data-count'),10);
+            var target = parseFloat(el.getAttribute('data-count'));
             var sup = el.querySelector('sup');
             var start = null;
             var dur = 1100;
