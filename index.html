@@ -239,6 +239,7 @@ body.past-hero .letterbox{height:0;}
 @media (max-width:640px){
   .hero{min-height:92vh;}
   .hero-bg{background-position:60% 40%;}
+  .hero h1{font-size:clamp(28px,8.5vw,44px);line-height:1.12;}
 }
 
 /* ---------- MARQUEE ---------- */
@@ -303,6 +304,10 @@ body.past-hero .letterbox{height:0;}
 .tier-vol{font-size:13.5px;color:var(--smoke);margin-bottom:32px;position:relative;}
 .tier-pct{font-family:'Fraunces',serif;font-size:64px;color:var(--gold);line-height:1;position:relative;}
 .tier-pct sup{font-size:26px;top:-24px;}
+@media (max-width:640px){
+  .tier-grid{grid-template-columns:1fr;margin-top:44px;}
+  .tier-card{padding:36px 28px;}
+}
 
 /* ---------- CATALOG (display case) ---------- */
 .catalog-act{padding:150px 0 170px;position:relative;}
