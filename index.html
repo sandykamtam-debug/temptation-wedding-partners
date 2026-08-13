@@ -795,6 +795,7 @@ footer .meta a{color:var(--gold-deep);}
   // Partner inquiry form -> mailto
   var partnerForm = document.getElementById('partnerForm');
   if(partnerForm){
+    var partnerSubmitBtn = partnerForm.querySelector('.submit-btn');
     partnerForm.addEventListener('submit', function(e){
       e.preventDefault();
       var fname = document.getElementById('fname').value.trim();
@@ -803,10 +804,28 @@ footer .meta a{color:var(--gold-deep);}
       var phone = document.getElementById('phone').value.trim();
       var region = document.getElementById('region').value;
       var volume = document.getElementById('volume').value;
-      var subject = 'Wedding Partner Program inquiry — ' + (bname || fname);
-      var body = 'Name: ' + fname + '\n' + 'Business: ' + bname + '\n' + 'Email: ' + email + '\n' +
-        'Phone: ' + (phone || '—') + '\n' + 'Region: ' + region + '\n' + 'Expected couples / year: ' + volume;
-      window.location.href = 'mailto:sandy@temptationjewellery.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+
+      if(partnerSubmitBtn){
+        partnerSubmitBtn.disabled = true;
+        partnerSubmitBtn.textContent = 'Sending…';
+      }
+
+      fetch('/api/partner-application', {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({fname:fname, bname:bname, email:email, phone:phone, region:region, volume:volume})
+      }).then(function(res){
+        if(!res.ok) throw new Error('Request failed');
+        return res.json();
+      }).then(function(){
+        partnerForm.innerHTML = '<p class="form-note">Thanks, ' + fname + ' — your application has been sent. We will set up your partner code within 48 hours.</p>';
+      }).catch(function(){
+        if(partnerSubmitBtn){
+          partnerSubmitBtn.disabled = false;
+          partnerSubmitBtn.textContent = 'Submit application';
+        }
+        alert('Something went wrong sending your application. Please try again or email sandy@temptationjewellery.com directly.');
+      });
     });
   }
 })();
