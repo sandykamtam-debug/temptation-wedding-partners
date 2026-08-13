@@ -115,6 +115,13 @@ nav.site-nav.scrolled{
   transition:background .25s ease, transform .25s ease;
 }
 .nav-cta:hover{background:var(--gold-hi);transform:translateY(-1px);}
+.hero-logo{display:flex;justify-content:center;margin-bottom:24px;}
+.hero-logo img{height:52px;width:auto;}
+.nav-logo img{height:30px;width:auto;display:block;}
+footer .nav-logo img{height:24px;}
+.catalog-badges{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0 6px;}
+.catalog-badge{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:0.06em;text-transform:uppercase;color:var(--gold);border:1px solid var(--line);border-radius:999px;padding:8px 16px;}
+.catalog-more-link{margin-top:18px;font-size:13.5px;color:var(--smoke);}
 @media (max-width:880px){.nav-links{display:none;}}
 
 /* ---------- HERO (spotlight reveal) ---------- */
@@ -375,7 +382,7 @@ footer .meta a{color:var(--gold-deep);}
 <div class="letterbox bottom"></div>
 
 <nav class="site-nav" id="siteNav">
-  <div class="nav-logo">temptation <em>jewellery</em></div>
+  <div class="nav-logo"><img src="https://temptationjewellery.com/img/logo-white.png" alt="Temptation Jewellery" loading="lazy"></div>
   <div class="nav-links">
     <a href="#how">How it works</a>
     <a href="#commission">Commission</a>
@@ -399,6 +406,9 @@ footer .meta a{color:var(--gold-deep);}
     <div class="uring-sparkle"></div>
   </div>
   <div class="wrap hero-inner">
+    <div class="hero-logo reveal">
+      <img src="https://temptationjewellery.com/img/logo-white.png" alt="Temptation Jewellery" loading="lazy">
+    </div>
     <div class="hero-eyebrow-row">
       <div class="rule"></div>
       <div class="eyebrow">Wedding Partner Program</div>
@@ -499,6 +509,11 @@ footer .meta a{color:var(--gold-deep);}
   <div class="act-head reveal">
     <div class="eyebrow">From the collection</div>
     <h2>A catalog built for every couple's story.</h2>
+    <div class="catalog-badges reveal">
+      <span class="catalog-badge">9K &middot; 14K &middot; 18K Certified Gold</span>
+      <span class="catalog-badge">Lifetime Warranty</span>
+      <span class="catalog-badge">Exclusive Partner Discount</span>
+    </div>
   </div>
   <div class="display-case reveal">
     <div class="display-case-inner">
@@ -509,6 +524,7 @@ footer .meta a{color:var(--gold-deep);}
     <span>73 designs &middot; yellow, white &amp; rose gold, two-tone</span>
     <span>Santa Cruz de Tenerife</span>
   </div>
+  <p class="catalog-more-link reveal">Looking for more? Explore our full jewelry and branded watch collection at <a href="https://temptationjewellery.com/" target="_blank" rel="noopener" class="ring-size-link">temptationjewellery.com</a>.</p>
 </div>
 
 <!-- APPLY -->
@@ -739,7 +755,7 @@ footer .meta a{color:var(--gold-deep);}
 
 <div class="wrap">
   <footer>
-    <div class="nav-logo">temptation <em>jewellery</em></div>
+    <div class="nav-logo"><img src="https://temptationjewellery.com/img/logo-white.png" alt="Temptation Jewellery" loading="lazy"></div>
     <div class="meta">Wedding Partner Program &middot; Tenerife, Canary Islands &middot; <a href="mailto:sandy@temptationjewellery.com">sandy@temptationjewellery.com</a></div>
   </footer>
 </div>
