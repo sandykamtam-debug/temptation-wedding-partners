@@ -540,6 +540,20 @@ footer .meta a{color:var(--gold-deep);}
     <p class="ring-size-note reveal">
       Not sure? <a href="#apply" class="ring-size-link">Book a fitting</a> and we'll measure you precisely in-store.
     </p>
+
+    <form id="sizeRequestForm" class="ring-size-form reveal">
+      <p class="ring-size-form-hint">Selected size: <strong id="ringSizeSelectedLabel">choose a size above</strong></p>
+      <div class="field-row">
+        <div><label for="rsName">Full name</label><input id="rsName" type="text" placeholder="Your name" required></div>
+        <div><label for="rsPartner">Partner's name</label><input id="rsPartner" type="text" placeholder="Optional"></div>
+      </div>
+      <div class="field-row">
+        <div><label for="rsEmail">Email</label><input id="rsEmail" type="email" placeholder="you@example.com" required></div>
+        <div><label for="rsPhone">Phone</label><input id="rsPhone" type="tel" placeholder="+34 ..."></div>
+      </div>
+      <button class="submit-btn" type="submit" id="rsSubmitBtn" disabled>Request this size</button>
+      <p class="form-note">Submitting opens an email to sandy@temptationjewellery.com with your size and details pre-filled.</p>
+    </form>
   </div>
 </section>
 
@@ -565,9 +579,13 @@ footer .meta a{color:var(--gold-deep);}
 .ring-card.is-selected .ring-number{fill:var(--gold-hi);}
 .ring-mm{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:0.02em;color:var(--smoke);}
 .ring-card.is-selected .ring-mm{color:var(--gold);}
-.ring-size-note{font-size:13.5px;color:var(--smoke);}
+.ring-size-note{font-size:13.5px;color:var(--smoke);margin-bottom:44px;}
 .ring-size-link{color:var(--gold);border-bottom:1px solid var(--line);transition:border-color .2s ease;}
 .ring-size-link:hover{border-color:var(--gold);}
+.ring-size-form{max-width:640px;}
+.ring-size-form-hint{font-size:13.5px;color:var(--smoke);margin-bottom:18px;}
+.ring-size-form-hint strong{color:var(--gold);font-weight:500;}
+.ring-size-form .submit-btn[disabled]{opacity:0.45;cursor:not-allowed;}
 @media (max-width:560px){.ring-size-grid{grid-template-columns:repeat(auto-fill,minmax(70px,1fr));}}
 </style>
 
@@ -582,6 +600,10 @@ footer .meta a{color:var(--gold-deep);}
   ];
   var grid = document.querySelector('.ring-size-grid');
   var select = document.getElementById('ringSizeSelect');
+  var selectedLabel = document.getElementById('ringSizeSelectedLabel');
+  var submitBtn = document.getElementById('rsSubmitBtn');
+  var sizeForm = document.getElementById('sizeRequestForm');
+
   var svgTemplate = function(size){
     return (
       '<svg class="ring-icon" viewBox="0 0 100 130" aria-hidden="true">' +
@@ -592,6 +614,7 @@ footer .meta a{color:var(--gold-deep);}
       '</svg>'
     );
   };
+
   RING_SIZES.forEach(function(item){
     var card = document.createElement('button');
     card.type = 'button';
@@ -603,25 +626,57 @@ footer .meta a{color:var(--gold-deep);}
     card.innerHTML = svgTemplate(item.size) + '<span class="ring-mm">' + item.mm + '</span>';
     grid.appendChild(card);
   });
+
   function selectSize(size, opts){
     opts = opts || {};
     var cards = grid.querySelectorAll('.ring-card');
+    var mmLabel = '';
     cards.forEach(function(c){
       var match = c.dataset.size === String(size);
       c.classList.toggle('is-selected', match);
       c.setAttribute('aria-checked', match ? 'true' : 'false');
-      if(match && opts.scroll){ c.scrollIntoView({behavior:'smooth', block:'nearest', inline:'center'}); }
+      if(match){
+        mmLabel = c.querySelector('.ring-mm').textContent;
+        if(opts.scroll){ c.scrollIntoView({behavior:'smooth', block:'nearest', inline:'center'}); }
+      }
     });
     if(select.value !== String(size)) select.value = size || '';
+    if(size){
+      selectedLabel.textContent = 'US ' + size + ' (' + mmLabel + ')';
+      submitBtn.disabled = false;
+    } else {
+      selectedLabel.textContent = 'choose a size above';
+      submitBtn.disabled = true;
+    }
   }
+
   grid.addEventListener('click', function(e){
     var card = e.target.closest('.ring-card');
     if(!card) return;
     selectSize(card.dataset.size);
   });
+
   select.addEventListener('change', function(){ selectSize(select.value, {scroll:true}); });
+
+  if(sizeForm){
+    sizeForm.addEventListener('submit', function(e){
+      e.preventDefault();
+      if(!select.value) return;
+      var name = document.getElementById('rsName').value.trim();
+      var partner = document.getElementById('rsPartner').value.trim();
+      var email = document.getElementById('rsEmail').value.trim();
+      var phone = document.getElementById('rsPhone').value.trim();
+      var size = select.value;
+      var mm = selectedLabel.textContent;
+      var subject = 'Ring Size Request — Size ' + size + ' (' + (name || 'Website visitor') + ')';
+      var body = 'Name: ' + name + '\n' + 'Partner: ' + (partner || '—') + '\n' + 'Email: ' + email + '\n' +
+        'Phone: ' + (phone || '—') + '\n' + 'Ring size (US): ' + size + '\n' + 'Diameter: ' + mm;
+      window.location.href = 'mailto:sandy@temptationjewellery.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+    });
+  }
 })();
 </script>
+
 
 
 <div class="apply-act" id="apply">
