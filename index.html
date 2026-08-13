@@ -668,10 +668,24 @@ footer .meta a{color:var(--gold-deep);}
       var phone = document.getElementById('rsPhone').value.trim();
       var size = select.value;
       var mm = selectedLabel.textContent;
-      var subject = 'Ring Size Request — Size ' + size + ' (' + (name || 'Website visitor') + ')';
-      var body = 'Name: ' + name + '\n' + 'Partner: ' + (partner || '—') + '\n' + 'Email: ' + email + '\n' +
-        'Phone: ' + (phone || '—') + '\n' + 'Ring size (US): ' + size + '\n' + 'Diameter: ' + mm;
-      window.location.href = 'mailto:sandy@temptationjewellery.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Sending…';
+
+      fetch('/api/request-size', {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({name:name, partner:partner, email:email, phone:phone, size:size, mm:mm})
+      }).then(function(res){
+        if(!res.ok) throw new Error('Request failed');
+        return res.json();
+      }).then(function(){
+        sizeForm.innerHTML = '<p class="ring-size-form-hint">Thanks' + (name ? ', ' + name : '') + ' — your size request has been sent. We will be in touch shortly.</p>';
+      }).catch(function(){
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Request this size';
+        alert('Something went wrong sending your request. Please try again or email sandy@temptationjewellery.com directly.');
+      });
     });
   }
 })();
