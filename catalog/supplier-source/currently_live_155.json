@@ -1,0 +1,1523 @@
+{
+ "Alianzas Planas 2,5 mm": [
+  {
+   "sku": "60425",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60425.png",
+   "page": 4
+  },
+  {
+   "sku": "60426",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60426.png",
+   "page": 4
+  },
+  {
+   "sku": "60427",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60427.png",
+   "page": 4
+  },
+  {
+   "sku": "65001",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p4_65001.png",
+   "page": 4
+  },
+  {
+   "sku": "60428",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60428.png",
+   "page": 4
+  },
+  {
+   "sku": "60429",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60429.png",
+   "page": 4
+  },
+  {
+   "sku": "60430",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60430.png",
+   "page": 4
+  },
+  {
+   "sku": "65003",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p4_65003.png",
+   "page": 4
+  }
+ ],
+ "Alianzas Planas 3 mm": [
+  {
+   "sku": "60759",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60759.png",
+   "page": 4
+  },
+  {
+   "sku": "60760",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60760.png",
+   "page": 4
+  },
+  {
+   "sku": "60761",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60761.png",
+   "page": 4
+  },
+  {
+   "sku": "65005",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "3 mm",
+   "file": "p4_65005.png",
+   "page": 4
+  },
+  {
+   "sku": "60440",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60440.png",
+   "page": 4
+  },
+  {
+   "sku": "60441",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60441.png",
+   "page": 4
+  },
+  {
+   "sku": "60442",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60442.png",
+   "page": 4
+  },
+  {
+   "sku": "65007",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "3 mm",
+   "file": "p4_65007.png",
+   "page": 4
+  }
+ ],
+ "Alianzas Planas 3,5 mm": [
+  {
+   "sku": "61076",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p4_61076.png",
+   "page": 4
+  },
+  {
+   "sku": "61077",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p4_61077.png",
+   "page": 4
+  },
+  {
+   "sku": "61078",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p4_61078.png",
+   "page": 4
+  },
+  {
+   "sku": "65009",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": "3,5 mm",
+   "file": "p4_65009.png",
+   "page": 4
+  }
+ ],
+ "Alianzas Planas 4 mm": [
+  {
+   "sku": "60795",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60795.png",
+   "page": 5
+  },
+  {
+   "sku": "60796",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60796.png",
+   "page": 5
+  },
+  {
+   "sku": "65011",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "4 mm",
+   "file": "p5_65011.png",
+   "page": 5
+  },
+  {
+   "sku": "61079",
+   "weight": "5,15 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_61079.png",
+   "page": 5
+  },
+  {
+   "sku": "61080",
+   "weight": "5,15 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_61080.png",
+   "page": 5
+  },
+  {
+   "sku": "65015",
+   "weight": "5,15 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": "4 mm",
+   "file": "p5_65015.png",
+   "page": 5
+  },
+  {
+   "sku": "60765",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60765.png",
+   "page": 5
+  },
+  {
+   "sku": "60766",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60766.png",
+   "page": 5
+  },
+  {
+   "sku": "65012",
+   "weight": "4,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": "4 mm",
+   "file": "p5_65012.png",
+   "page": 5
+  },
+  {
+   "sku": "60453",
+   "weight": "4,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": "4 mm",
+   "file": "p5_60453.png",
+   "page": 5
+  }
+ ],
+ "Alianzas Planas 5 mm": [
+  {
+   "sku": "60768",
+   "weight": "4,20 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60768.png",
+   "page": 5
+  },
+  {
+   "sku": "60769",
+   "weight": "4,20 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60769.png",
+   "page": 5
+  },
+  {
+   "sku": "65017",
+   "weight": "4,20 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": "5 mm",
+   "file": "p5_65017.png",
+   "page": 5
+  },
+  {
+   "sku": "60762",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60762.png",
+   "page": 5
+  },
+  {
+   "sku": "60763",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60763.png",
+   "page": 5
+  },
+  {
+   "sku": "65019",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "5 mm",
+   "file": "p5_65019.png",
+   "page": 5
+  }
+ ],
+ "Alianzas Media Caña 2,5 mm": [
+  {
+   "sku": "60392",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60392.png",
+   "page": 6
+  },
+  {
+   "sku": "60393",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60393.png",
+   "page": 6
+  },
+  {
+   "sku": "60394",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60394.png",
+   "page": 6
+  },
+  {
+   "sku": "65023",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p6_65023.png",
+   "page": 6
+  },
+  {
+   "sku": "60395",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60395.png",
+   "page": 6
+  },
+  {
+   "sku": "60396",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60396.png",
+   "page": 6
+  },
+  {
+   "sku": "60397",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60397.png",
+   "page": 6
+  },
+  {
+   "sku": "65021",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0.005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p6_65021.png",
+   "page": 6
+  }
+ ],
+ "Alianzas Media Caña 3 mm": [
+  {
+   "sku": "60401",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60401.png",
+   "page": 6
+  },
+  {
+   "sku": "60402",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60402.png",
+   "page": 6
+  },
+  {
+   "sku": "60403",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60403.png",
+   "page": 6
+  },
+  {
+   "sku": "65025",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "3 mm",
+   "file": "p6_65025.png",
+   "page": 6
+  },
+  {
+   "sku": "60410",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60410.png",
+   "page": 6
+  },
+  {
+   "sku": "60411",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60411.png",
+   "page": 6
+  },
+  {
+   "sku": "60412",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60412.png",
+   "page": 6
+  },
+  {
+   "sku": "61022",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "3 mm",
+   "file": "p6_61022.png",
+   "page": 6
+  },
+  {
+   "sku": "61087",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_61087.png",
+   "page": 6
+  },
+  {
+   "sku": "61088",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_61088.png",
+   "page": 6
+  },
+  {
+   "sku": "61089",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_61089.png",
+   "page": 6
+  },
+  {
+   "sku": "65028",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "3 mm",
+   "file": "p6_65028.png",
+   "page": 6
+  }
+ ],
+ "Alianzas Media Caña 4 mm": [
+  {
+   "sku": "60413",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60413.png",
+   "page": 7
+  },
+  {
+   "sku": "60414",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60414.png",
+   "page": 7
+  },
+  {
+   "sku": "65030",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "4 mm",
+   "file": "p7_65030.png",
+   "page": 7
+  },
+  {
+   "sku": "60416",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60416.png",
+   "page": 7
+  },
+  {
+   "sku": "60417",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60417.png",
+   "page": 7
+  },
+  {
+   "sku": "65031",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "4 mm",
+   "file": "p7_65031.png",
+   "page": 7
+  },
+  {
+   "sku": "61090",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_61090.png",
+   "page": 7
+  },
+  {
+   "sku": "61091",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_61091.png",
+   "page": 7
+  },
+  {
+   "sku": "65033",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "4 mm",
+   "file": "p7_65033.png",
+   "page": 7
+  }
+ ],
+ "Alianzas Media Caña 5 mm": [
+  {
+   "sku": "60419",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60419.png",
+   "page": 7
+  },
+  {
+   "sku": "60420",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60420.png",
+   "page": 7
+  },
+  {
+   "sku": "65035",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": "5 mm",
+   "file": "p7_65035.png",
+   "page": 7
+  },
+  {
+   "sku": "60422",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60422.png",
+   "page": 7
+  },
+  {
+   "sku": "60423",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60423.png",
+   "page": 7
+  },
+  {
+   "sku": "65036",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": "5 mm",
+   "file": "p7_65036.png",
+   "page": 7
+  }
+ ],
+ "Alianzas 3 mm": [
+  {
+   "sku": "60292",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60292.png",
+   "page": 8
+  },
+  {
+   "sku": "60323",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60323.png",
+   "page": 8
+  },
+  {
+   "sku": "60340",
+   "weight": "2,40 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60340.png",
+   "page": 8
+  },
+  {
+   "sku": "60355",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60355.png",
+   "page": 9
+  },
+  {
+   "sku": "60242",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60242.png",
+   "page": 9
+  },
+  {
+   "sku": "60372",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60372.png",
+   "page": 9
+  },
+  {
+   "sku": "60468",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60468.png",
+   "page": 9
+  },
+  {
+   "sku": "65111",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p10_65111.png",
+   "page": 10
+  },
+  {
+   "sku": "61203",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p10_61203.png",
+   "page": 10
+  },
+  {
+   "sku": "60298",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p10_60298.png",
+   "page": 10
+  },
+  {
+   "sku": "61177",
+   "weight": "2,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_61177.png",
+   "page": 11
+  },
+  {
+   "sku": "61161",
+   "weight": "2,65 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p11_61161.png",
+   "page": 11
+  }
+ ],
+ "Alianzas 3,5 mm": [
+  {
+   "sku": "60595",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60595.png",
+   "page": 12
+  },
+  {
+   "sku": "60788",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p12_60788.png",
+   "page": 12
+  },
+  {
+   "sku": "65049",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p12_65049.png",
+   "page": 12
+  },
+  {
+   "sku": "60775",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p12_60775.png",
+   "page": 12
+  },
+  {
+   "sku": "65052",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p12_65052.png",
+   "page": 12
+  },
+  {
+   "sku": "60982",
+   "weight": "2,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60982.png",
+   "page": 12
+  },
+  {
+   "sku": "60688",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60688.png",
+   "page": 13
+  },
+  {
+   "sku": "60696",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60696.png",
+   "page": 13
+  },
+  {
+   "sku": "61272",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_61272.png",
+   "page": 13
+  },
+  {
+   "sku": "61287",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_61287.png",
+   "page": 13
+  },
+  {
+   "sku": "60961",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60961.png",
+   "page": 13
+  },
+  {
+   "sku": "40038",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_40038.png",
+   "page": 13
+  }
+ ],
+ "Alianzas 4 mm": [
+  {
+   "sku": "60479",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60479.png",
+   "page": 14
+  },
+  {
+   "sku": "60516",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60516.png",
+   "page": 14
+  },
+  {
+   "sku": "61043",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61043.png",
+   "page": 15
+  },
+  {
+   "sku": "60706",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60706.png",
+   "page": 16
+  },
+  {
+   "sku": "61034",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61034.png",
+   "page": 17
+  },
+  {
+   "sku": "60266",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60266.png",
+   "page": 18
+  },
+  {
+   "sku": "61082",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_61082.png",
+   "page": 19
+  },
+  {
+   "sku": "60285",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60285.png",
+   "page": 20
+  },
+  {
+   "sku": "61167",
+   "weight": "2,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p22_61167.png",
+   "page": 22
+  },
+  {
+   "sku": "40004",
+   "weight": "2,95 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40004.png",
+   "page": 23
+  },
+  {
+   "sku": "61264",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61264.png",
+   "page": 24
+  },
+  {
+   "sku": "60800",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_60800.png",
+   "page": 25
+  }
+ ],
+ "Alianzas 4,5 mm": [
+  {
+   "sku": "60567",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60567.png",
+   "page": 26
+  },
+  {
+   "sku": "60572",
+   "weight": "4,00 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p26_60572.png",
+   "page": 26
+  },
+  {
+   "sku": "60552",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p26_60552.png",
+   "page": 26
+  },
+  {
+   "sku": "60604",
+   "weight": "3,70 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p26_60604.png",
+   "page": 26
+  },
+  {
+   "sku": "65086",
+   "weight": "3,25 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p26_65086.png",
+   "page": 26
+  },
+  {
+   "sku": "60539",
+   "weight": "2,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60539.png",
+   "page": 26
+  },
+  {
+   "sku": "60619",
+   "weight": "3,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60619.png",
+   "page": 26
+  },
+  {
+   "sku": "40007",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p27_40007.png",
+   "page": 27
+  },
+  {
+   "sku": "60632",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p27_60632.png",
+   "page": 27
+  },
+  {
+   "sku": "60650",
+   "weight": "3,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60650.png",
+   "page": 27
+  },
+  {
+   "sku": "65090",
+   "weight": "3,10 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p27_65090.png",
+   "page": 27
+  },
+  {
+   "sku": "60664",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p27_60664.png",
+   "page": 27
+  }
+ ],
+ "Alianzas 5 mm": [
+  {
+   "sku": "60755",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60755.png",
+   "page": 28
+  },
+  {
+   "sku": "60897",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 3 0,015"
+   ],
+   "mm": null,
+   "file": "p28_60897.png",
+   "page": 28
+  },
+  {
+   "sku": "65095",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p28_65095.png",
+   "page": 28
+  },
+  {
+   "sku": "65098",
+   "weight": "5,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p29_65098.png",
+   "page": 29
+  },
+  {
+   "sku": "60644",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_60644.png",
+   "page": 29
+  },
+  {
+   "sku": "60536",
+   "weight": "5,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p29_60536.png",
+   "page": 29
+  },
+  {
+   "sku": "60734",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60734.png",
+   "page": 30
+  },
+  {
+   "sku": "60842",
+   "weight": "5,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60842.png",
+   "page": 30
+  },
+  {
+   "sku": "61126",
+   "weight": "6,10 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61126.png",
+   "page": 31
+  },
+  {
+   "sku": "61117",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61117.png",
+   "page": 31
+  },
+  {
+   "sku": "61210",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61210.png",
+   "page": 32
+  },
+  {
+   "sku": "61219",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61219.png",
+   "page": 32
+  }
+ ],
+ "Alianzas 5,5 mm": [
+  {
+   "sku": "60523",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60523.png",
+   "page": 33
+  },
+  {
+   "sku": "60524",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60524.png",
+   "page": 33
+  },
+  {
+   "sku": "60528",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p33_60528.png",
+   "page": 33
+  },
+  {
+   "sku": "60555",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60555.png",
+   "page": 33
+  },
+  {
+   "sku": "60556",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60556.png",
+   "page": 33
+  },
+  {
+   "sku": "60560",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p33_60560.png",
+   "page": 33
+  },
+  {
+   "sku": "60592",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60592.png",
+   "page": 33
+  },
+  {
+   "sku": "60575",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60575.png",
+   "page": 33
+  },
+  {
+   "sku": "60576",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60576.png",
+   "page": 33
+  },
+  {
+   "sku": "60781",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p33_60781.png",
+   "page": 33
+  },
+  {
+   "sku": "60651",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60651.png",
+   "page": 33
+  },
+  {
+   "sku": "60652",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60652.png",
+   "page": 33
+  }
+ ],
+ "Alianzas Plata de Ley 925": [
+  {
+   "sku": "90092",
+   "weight": "2,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90092.png",
+   "page": 36
+  },
+  {
+   "sku": "90080",
+   "weight": "3,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p36_90080.png",
+   "page": 36
+  },
+  {
+   "sku": "90090",
+   "weight": "3,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p37_90090.png",
+   "page": 37
+  },
+  {
+   "sku": "90148",
+   "weight": "2,55 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90148.png",
+   "page": 37
+  },
+  {
+   "sku": "90042",
+   "weight": "3,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90042.png",
+   "page": 38
+  },
+  {
+   "sku": "90187",
+   "weight": "4,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90187.png",
+   "page": 39
+  },
+  {
+   "sku": "90103",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90103.png",
+   "page": 39
+  },
+  {
+   "sku": "90038",
+   "weight": "3,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90038.png",
+   "page": 40
+  },
+  {
+   "sku": "90155",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4,5 mm",
+   "file": "p40_90155.png",
+   "page": 40
+  },
+  {
+   "sku": "90069",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p41_90069.png",
+   "page": 41
+  },
+  {
+   "sku": "90143",
+   "weight": "8,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90143.png",
+   "page": 42
+  },
+  {
+   "sku": "90167",
+   "weight": "5,85 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5,5 mm",
+   "file": "p43_90167.png",
+   "page": 43
+  }
+ ]
+}

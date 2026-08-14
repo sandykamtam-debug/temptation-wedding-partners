@@ -1,0 +1,6098 @@
+{
+ "Alianzas Planas 2,5 mm": [
+  {
+   "sku": "60425",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60425.png",
+   "page": 4
+  },
+  {
+   "sku": "60426",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60426.png",
+   "page": 4
+  },
+  {
+   "sku": "60427",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60427.png",
+   "page": 4
+  },
+  {
+   "sku": "65001",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p4_65001.png",
+   "page": 4
+  },
+  {
+   "sku": "60428",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60428.png",
+   "page": 4
+  },
+  {
+   "sku": "60429",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60429.png",
+   "page": 4
+  },
+  {
+   "sku": "60430",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p4_60430.png",
+   "page": 4
+  },
+  {
+   "sku": "65003",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p4_65003.png",
+   "page": 4
+  }
+ ],
+ "Alianzas Planas 3 mm": [
+  {
+   "sku": "60759",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60759.png",
+   "page": 4
+  },
+  {
+   "sku": "60760",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60760.png",
+   "page": 4
+  },
+  {
+   "sku": "60761",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60761.png",
+   "page": 4
+  },
+  {
+   "sku": "65005",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "3 mm",
+   "file": "p4_65005.png",
+   "page": 4
+  },
+  {
+   "sku": "60440",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60440.png",
+   "page": 4
+  },
+  {
+   "sku": "60441",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60441.png",
+   "page": 4
+  },
+  {
+   "sku": "60442",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p4_60442.png",
+   "page": 4
+  },
+  {
+   "sku": "65007",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "3 mm",
+   "file": "p4_65007.png",
+   "page": 4
+  }
+ ],
+ "Alianzas Planas 3,5 mm": [
+  {
+   "sku": "61076",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p4_61076.png",
+   "page": 4
+  },
+  {
+   "sku": "61077",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p4_61077.png",
+   "page": 4
+  },
+  {
+   "sku": "61078",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p4_61078.png",
+   "page": 4
+  },
+  {
+   "sku": "65009",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": "3,5 mm",
+   "file": "p4_65009.png",
+   "page": 4
+  }
+ ],
+ "Alianzas Planas 4 mm": [
+  {
+   "sku": "60795",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60795.png",
+   "page": 5
+  },
+  {
+   "sku": "60796",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60796.png",
+   "page": 5
+  },
+  {
+   "sku": "65011",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "4 mm",
+   "file": "p5_65011.png",
+   "page": 5
+  },
+  {
+   "sku": "61079",
+   "weight": "5,15 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_61079.png",
+   "page": 5
+  },
+  {
+   "sku": "61080",
+   "weight": "5,15 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_61080.png",
+   "page": 5
+  },
+  {
+   "sku": "65015",
+   "weight": "5,15 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": "4 mm",
+   "file": "p5_65015.png",
+   "page": 5
+  },
+  {
+   "sku": "60765",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60765.png",
+   "page": 5
+  },
+  {
+   "sku": "60766",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p5_60766.png",
+   "page": 5
+  },
+  {
+   "sku": "65012",
+   "weight": "4,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": "4 mm",
+   "file": "p5_65012.png",
+   "page": 5
+  },
+  {
+   "sku": "60453",
+   "weight": "4,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": "4 mm",
+   "file": "p5_60453.png",
+   "page": 5
+  }
+ ],
+ "Alianzas Planas 5 mm": [
+  {
+   "sku": "60768",
+   "weight": "4,20 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60768.png",
+   "page": 5
+  },
+  {
+   "sku": "60769",
+   "weight": "4,20 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60769.png",
+   "page": 5
+  },
+  {
+   "sku": "65017",
+   "weight": "4,20 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": "5 mm",
+   "file": "p5_65017.png",
+   "page": 5
+  },
+  {
+   "sku": "60762",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60762.png",
+   "page": 5
+  },
+  {
+   "sku": "60763",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p5_60763.png",
+   "page": 5
+  },
+  {
+   "sku": "65019",
+   "weight": "4,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "5 mm",
+   "file": "p5_65019.png",
+   "page": 5
+  }
+ ],
+ "Alianzas Media Caña 2,5 mm": [
+  {
+   "sku": "60392",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60392.png",
+   "page": 6
+  },
+  {
+   "sku": "60393",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60393.png",
+   "page": 6
+  },
+  {
+   "sku": "60394",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60394.png",
+   "page": 6
+  },
+  {
+   "sku": "65023",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p6_65023.png",
+   "page": 6
+  },
+  {
+   "sku": "60395",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60395.png",
+   "page": 6
+  },
+  {
+   "sku": "60396",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60396.png",
+   "page": 6
+  },
+  {
+   "sku": "60397",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "2,5 mm",
+   "file": "p6_60397.png",
+   "page": 6
+  },
+  {
+   "sku": "65021",
+   "weight": "1,30 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0.005"
+   ],
+   "mm": "2,5 mm",
+   "file": "p6_65021.png",
+   "page": 6
+  }
+ ],
+ "Alianzas Media Caña 3 mm": [
+  {
+   "sku": "60401",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60401.png",
+   "page": 6
+  },
+  {
+   "sku": "60402",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60402.png",
+   "page": 6
+  },
+  {
+   "sku": "60403",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60403.png",
+   "page": 6
+  },
+  {
+   "sku": "65025",
+   "weight": "1,90 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "3 mm",
+   "file": "p6_65025.png",
+   "page": 6
+  },
+  {
+   "sku": "60410",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60410.png",
+   "page": 6
+  },
+  {
+   "sku": "60411",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60411.png",
+   "page": 6
+  },
+  {
+   "sku": "60412",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_60412.png",
+   "page": 6
+  },
+  {
+   "sku": "61022",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "3 mm",
+   "file": "p6_61022.png",
+   "page": 6
+  },
+  {
+   "sku": "61087",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_61087.png",
+   "page": 6
+  },
+  {
+   "sku": "61088",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_61088.png",
+   "page": 6
+  },
+  {
+   "sku": "61089",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3 mm",
+   "file": "p6_61089.png",
+   "page": 6
+  },
+  {
+   "sku": "65028",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "3 mm",
+   "file": "p6_65028.png",
+   "page": 6
+  }
+ ],
+ "Alianzas Media Caña 4 mm": [
+  {
+   "sku": "60413",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60413.png",
+   "page": 7
+  },
+  {
+   "sku": "60414",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60414.png",
+   "page": 7
+  },
+  {
+   "sku": "65030",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": "4 mm",
+   "file": "p7_65030.png",
+   "page": 7
+  },
+  {
+   "sku": "60416",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60416.png",
+   "page": 7
+  },
+  {
+   "sku": "60417",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_60417.png",
+   "page": 7
+  },
+  {
+   "sku": "65031",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "4 mm",
+   "file": "p7_65031.png",
+   "page": 7
+  },
+  {
+   "sku": "61090",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_61090.png",
+   "page": 7
+  },
+  {
+   "sku": "61091",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p7_61091.png",
+   "page": 7
+  },
+  {
+   "sku": "65033",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": "4 mm",
+   "file": "p7_65033.png",
+   "page": 7
+  }
+ ],
+ "Alianzas Media Caña 5 mm": [
+  {
+   "sku": "60419",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60419.png",
+   "page": 7
+  },
+  {
+   "sku": "60420",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60420.png",
+   "page": 7
+  },
+  {
+   "sku": "65035",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": "5 mm",
+   "file": "p7_65035.png",
+   "page": 7
+  },
+  {
+   "sku": "60422",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60422.png",
+   "page": 7
+  },
+  {
+   "sku": "60423",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p7_60423.png",
+   "page": 7
+  },
+  {
+   "sku": "65036",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": "5 mm",
+   "file": "p7_65036.png",
+   "page": 7
+  }
+ ],
+ "Alianzas 3 mm": [
+  {
+   "sku": "60292",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60292.png",
+   "page": 8
+  },
+  {
+   "sku": "60293",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60293.png",
+   "page": 8
+  },
+  {
+   "sku": "60294",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60294.png",
+   "page": 8
+  },
+  {
+   "sku": "60322",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60322.png",
+   "page": 8
+  },
+  {
+   "sku": "60323",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60323.png",
+   "page": 8
+  },
+  {
+   "sku": "60324",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60324.png",
+   "page": 8
+  },
+  {
+   "sku": "65038",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p8_65038.png",
+   "page": 8
+  },
+  {
+   "sku": "60338",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60338.png",
+   "page": 8
+  },
+  {
+   "sku": "60339",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60339.png",
+   "page": 8
+  },
+  {
+   "sku": "60340",
+   "weight": "2,40 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60340.png",
+   "page": 8
+  },
+  {
+   "sku": "60262",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60262.png",
+   "page": 8
+  },
+  {
+   "sku": "60263",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60263.png",
+   "page": 8
+  },
+  {
+   "sku": "60264",
+   "weight": "2,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p8_60264.png",
+   "page": 8
+  },
+  {
+   "sku": "60355",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60355.png",
+   "page": 9
+  },
+  {
+   "sku": "60357",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60357.png",
+   "page": 9
+  },
+  {
+   "sku": "60353",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60353.png",
+   "page": 9
+  },
+  {
+   "sku": "60240",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60240.png",
+   "page": 9
+  },
+  {
+   "sku": "60241",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60241.png",
+   "page": 9
+  },
+  {
+   "sku": "60242",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60242.png",
+   "page": 9
+  },
+  {
+   "sku": "60258",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60258.png",
+   "page": 9
+  },
+  {
+   "sku": "60259",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60259.png",
+   "page": 9
+  },
+  {
+   "sku": "61160",
+   "weight": "2,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p9_61160.png",
+   "page": 9
+  },
+  {
+   "sku": "60372",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60372.png",
+   "page": 9
+  },
+  {
+   "sku": "60475",
+   "weight": "1,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60475.png",
+   "page": 9
+  },
+  {
+   "sku": "60476",
+   "weight": "1,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60476.png",
+   "page": 9
+  },
+  {
+   "sku": "65046",
+   "weight": "1,70 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p9_65046.png",
+   "page": 9
+  },
+  {
+   "sku": "60467",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60467.png",
+   "page": 9
+  },
+  {
+   "sku": "60468",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p9_60468.png",
+   "page": 9
+  },
+  {
+   "sku": "65044",
+   "weight": "1,60 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p9_65044.png",
+   "page": 9
+  },
+  {
+   "sku": "60360",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p10_60360.png",
+   "page": 10
+  },
+  {
+   "sku": "60361",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p10_60361.png",
+   "page": 10
+  },
+  {
+   "sku": "60359",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p10_60359.png",
+   "page": 10
+  },
+  {
+   "sku": "65111",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p10_65111.png",
+   "page": 10
+  },
+  {
+   "sku": "61199",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p10_61199.png",
+   "page": 10
+  },
+  {
+   "sku": "61200",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p10_61200.png",
+   "page": 10
+  },
+  {
+   "sku": "61201",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p10_61201.png",
+   "page": 10
+  },
+  {
+   "sku": "61203",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p10_61203.png",
+   "page": 10
+  },
+  {
+   "sku": "61204",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p10_61204.png",
+   "page": 10
+  },
+  {
+   "sku": "61205",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p10_61205.png",
+   "page": 10
+  },
+  {
+   "sku": "61206",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p10_61206.png",
+   "page": 10
+  },
+  {
+   "sku": "61208",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p10_61208.png",
+   "page": 10
+  },
+  {
+   "sku": "60298",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p10_60298.png",
+   "page": 10
+  },
+  {
+   "sku": "60299",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p10_60299.png",
+   "page": 10
+  },
+  {
+   "sku": "60300",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p10_60300.png",
+   "page": 10
+  },
+  {
+   "sku": "65040",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p10_65040.png",
+   "page": 10
+  },
+  {
+   "sku": "61177",
+   "weight": "2,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_61177.png",
+   "page": 11
+  },
+  {
+   "sku": "61178",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_61178.png",
+   "page": 11
+  },
+  {
+   "sku": "60252",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_60252.png",
+   "page": 11
+  },
+  {
+   "sku": "60253",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_60253.png",
+   "page": 11
+  },
+  {
+   "sku": "61169",
+   "weight": "2,65gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p11_61169.png",
+   "page": 11
+  },
+  {
+   "sku": "61161",
+   "weight": "2,65 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p11_61161.png",
+   "page": 11
+  },
+  {
+   "sku": "60286",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_60286.png",
+   "page": 11
+  },
+  {
+   "sku": "60287",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_60287.png",
+   "page": 11
+  },
+  {
+   "sku": "60280",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_60280.png",
+   "page": 11
+  },
+  {
+   "sku": "60281",
+   "weight": "2,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p11_60281.png",
+   "page": 11
+  }
+ ],
+ "Alianzas 3,5 mm": [
+  {
+   "sku": "60595",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60595.png",
+   "page": 12
+  },
+  {
+   "sku": "60596",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60596.png",
+   "page": 12
+  },
+  {
+   "sku": "60788",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p12_60788.png",
+   "page": 12
+  },
+  {
+   "sku": "60607",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60607.png",
+   "page": 12
+  },
+  {
+   "sku": "60608",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60608.png",
+   "page": 12
+  },
+  {
+   "sku": "65049",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p12_65049.png",
+   "page": 12
+  },
+  {
+   "sku": "60563",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60563.png",
+   "page": 12
+  },
+  {
+   "sku": "60564",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60564.png",
+   "page": 12
+  },
+  {
+   "sku": "60775",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p12_60775.png",
+   "page": 12
+  },
+  {
+   "sku": "60623",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60623.png",
+   "page": 12
+  },
+  {
+   "sku": "60624",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60624.png",
+   "page": 12
+  },
+  {
+   "sku": "65052",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p12_65052.png",
+   "page": 12
+  },
+  {
+   "sku": "60579",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60579.png",
+   "page": 12
+  },
+  {
+   "sku": "60580",
+   "weight": "2,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60580.png",
+   "page": 12
+  },
+  {
+   "sku": "60982",
+   "weight": "2,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60982.png",
+   "page": 12
+  },
+  {
+   "sku": "60983",
+   "weight": "2,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p12_60983.png",
+   "page": 12
+  },
+  {
+   "sku": "60687",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60687.png",
+   "page": 13
+  },
+  {
+   "sku": "60688",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60688.png",
+   "page": 13
+  },
+  {
+   "sku": "60695",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60695.png",
+   "page": 13
+  },
+  {
+   "sku": "60696",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60696.png",
+   "page": 13
+  },
+  {
+   "sku": "60615",
+   "weight": "1,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60615.png",
+   "page": 13
+  },
+  {
+   "sku": "60616",
+   "weight": "1,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60616.png",
+   "page": 13
+  },
+  {
+   "sku": "61272",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_61272.png",
+   "page": 13
+  },
+  {
+   "sku": "61277",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_61277.png",
+   "page": 13
+  },
+  {
+   "sku": "61282",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_61282.png",
+   "page": 13
+  },
+  {
+   "sku": "61287",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_61287.png",
+   "page": 13
+  },
+  {
+   "sku": "40001",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_40001.png",
+   "page": 13
+  },
+  {
+   "sku": "60230",
+   "weight": "2,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60230.png",
+   "page": 13
+  },
+  {
+   "sku": "60961",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p13_60961.png",
+   "page": 13
+  },
+  {
+   "sku": "65054",
+   "weight": "2,65 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p13_65054.png",
+   "page": 13
+  },
+  {
+   "sku": "40037",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_40037.png",
+   "page": 13
+  },
+  {
+   "sku": "40038",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_40038.png",
+   "page": 13
+  },
+  {
+   "sku": "40039",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_40039.png",
+   "page": 13
+  },
+  {
+   "sku": "40008",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p13_40008.png",
+   "page": 13
+  }
+ ],
+ "Alianzas 4 mm": [
+  {
+   "sku": "60479",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60479.png",
+   "page": 14
+  },
+  {
+   "sku": "60480",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60480.png",
+   "page": 14
+  },
+  {
+   "sku": "65056",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p14_65056.png",
+   "page": 14
+  },
+  {
+   "sku": "60499",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60499.png",
+   "page": 14
+  },
+  {
+   "sku": "60500",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60500.png",
+   "page": 14
+  },
+  {
+   "sku": "65109",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p14_65109.png",
+   "page": 14
+  },
+  {
+   "sku": "60471",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60471.png",
+   "page": 14
+  },
+  {
+   "sku": "60472",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60472.png",
+   "page": 14
+  },
+  {
+   "sku": "60784",
+   "weight": "3,20 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p14_60784.png",
+   "page": 14
+  },
+  {
+   "sku": "60922",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60922.png",
+   "page": 14
+  },
+  {
+   "sku": "60923",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60923.png",
+   "page": 14
+  },
+  {
+   "sku": "60924",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60924.png",
+   "page": 14
+  },
+  {
+   "sku": "60925",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60925.png",
+   "page": 14
+  },
+  {
+   "sku": "60667",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60667.png",
+   "page": 14
+  },
+  {
+   "sku": "60668",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60668.png",
+   "page": 14
+  },
+  {
+   "sku": "60670",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60670.png",
+   "page": 14
+  },
+  {
+   "sku": "60778",
+   "weight": "3,40 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p14_60778.png",
+   "page": 14
+  },
+  {
+   "sku": "60515",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60515.png",
+   "page": 14
+  },
+  {
+   "sku": "60516",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p14_60516.png",
+   "page": 14
+  },
+  {
+   "sku": "60671",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60671.png",
+   "page": 15
+  },
+  {
+   "sku": "60672",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60672.png",
+   "page": 15
+  },
+  {
+   "sku": "60674",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60674.png",
+   "page": 15
+  },
+  {
+   "sku": "60676",
+   "weight": "3,40 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p15_60676.png",
+   "page": 15
+  },
+  {
+   "sku": "60635",
+   "weight": "3,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60635.png",
+   "page": 15
+  },
+  {
+   "sku": "60636",
+   "weight": "3,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60636.png",
+   "page": 15
+  },
+  {
+   "sku": "65061",
+   "weight": "3,75 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p15_65061.png",
+   "page": 15
+  },
+  {
+   "sku": "60483",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60483.png",
+   "page": 15
+  },
+  {
+   "sku": "60484",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60484.png",
+   "page": 15
+  },
+  {
+   "sku": "60488",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,01"
+   ],
+   "mm": null,
+   "file": "p15_60488.png",
+   "page": 15
+  },
+  {
+   "sku": "61097",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61097.png",
+   "page": 15
+  },
+  {
+   "sku": "61101",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61101.png",
+   "page": 15
+  },
+  {
+   "sku": "61105",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61105.png",
+   "page": 15
+  },
+  {
+   "sku": "60751",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60751.png",
+   "page": 15
+  },
+  {
+   "sku": "60752",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p15_60752.png",
+   "page": 15
+  },
+  {
+   "sku": "61041",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61041.png",
+   "page": 15
+  },
+  {
+   "sku": "61042",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61042.png",
+   "page": 15
+  },
+  {
+   "sku": "61043",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61043.png",
+   "page": 15
+  },
+  {
+   "sku": "61044",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p15_61044.png",
+   "page": 15
+  },
+  {
+   "sku": "65064",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p15_65064.png",
+   "page": 15
+  },
+  {
+   "sku": "60683",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60683.png",
+   "page": 16
+  },
+  {
+   "sku": "60684",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60684.png",
+   "page": 16
+  },
+  {
+   "sku": "60686",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60686.png",
+   "page": 16
+  },
+  {
+   "sku": "60699",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60699.png",
+   "page": 16
+  },
+  {
+   "sku": "60700",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60700.png",
+   "page": 16
+  },
+  {
+   "sku": "60702",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60702.png",
+   "page": 16
+  },
+  {
+   "sku": "60714",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60714.png",
+   "page": 16
+  },
+  {
+   "sku": "60722",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60722.png",
+   "page": 16
+  },
+  {
+   "sku": "60730",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60730.png",
+   "page": 16
+  },
+  {
+   "sku": "60742",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60742.png",
+   "page": 16
+  },
+  {
+   "sku": "60825",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60825.png",
+   "page": 16
+  },
+  {
+   "sku": "61113",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_61113.png",
+   "page": 16
+  },
+  {
+   "sku": "61114",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_61114.png",
+   "page": 16
+  },
+  {
+   "sku": "61116",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_61116.png",
+   "page": 16
+  },
+  {
+   "sku": "60703",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60703.png",
+   "page": 16
+  },
+  {
+   "sku": "60704",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60704.png",
+   "page": 16
+  },
+  {
+   "sku": "60706",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p16_60706.png",
+   "page": 16
+  },
+  {
+   "sku": "60707",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60707.png",
+   "page": 17
+  },
+  {
+   "sku": "60708",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60708.png",
+   "page": 17
+  },
+  {
+   "sku": "60710",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60710.png",
+   "page": 17
+  },
+  {
+   "sku": "60808",
+   "weight": "4,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60808.png",
+   "page": 17
+  },
+  {
+   "sku": "60809",
+   "weight": "4,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60809.png",
+   "page": 17
+  },
+  {
+   "sku": "60811",
+   "weight": "4,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60811.png",
+   "page": 17
+  },
+  {
+   "sku": "65066",
+   "weight": "4,75 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p17_65066.png",
+   "page": 17
+  },
+  {
+   "sku": "61037",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61037.png",
+   "page": 17
+  },
+  {
+   "sku": "61038",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61038.png",
+   "page": 17
+  },
+  {
+   "sku": "61039",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61039.png",
+   "page": 17
+  },
+  {
+   "sku": "61040",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61040.png",
+   "page": 17
+  },
+  {
+   "sku": "60747",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60747.png",
+   "page": 17
+  },
+  {
+   "sku": "60748",
+   "weight": "2,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60748.png",
+   "page": 17
+  },
+  {
+   "sku": "60750",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60750.png",
+   "page": 17
+  },
+  {
+   "sku": "60260",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60260.png",
+   "page": 17
+  },
+  {
+   "sku": "60261",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p17_60261.png",
+   "page": 17
+  },
+  {
+   "sku": "61033",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61033.png",
+   "page": 17
+  },
+  {
+   "sku": "61034",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61034.png",
+   "page": 17
+  },
+  {
+   "sku": "61035",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61035.png",
+   "page": 17
+  },
+  {
+   "sku": "61036",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p17_61036.png",
+   "page": 17
+  },
+  {
+   "sku": "61072",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p17_61072.png",
+   "page": 17
+  },
+  {
+   "sku": "60946",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60946.png",
+   "page": 18
+  },
+  {
+   "sku": "60947",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60947.png",
+   "page": 18
+  },
+  {
+   "sku": "60948",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60948.png",
+   "page": 18
+  },
+  {
+   "sku": "65069",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p18_65069.png",
+   "page": 18
+  },
+  {
+   "sku": "60945",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60945.png",
+   "page": 18
+  },
+  {
+   "sku": "60994",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60994.png",
+   "page": 18
+  },
+  {
+   "sku": "60295",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60295.png",
+   "page": 18
+  },
+  {
+   "sku": "60296",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60296.png",
+   "page": 18
+  },
+  {
+   "sku": "60297",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60297.png",
+   "page": 18
+  },
+  {
+   "sku": "65071",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p18_65071.png",
+   "page": 18
+  },
+  {
+   "sku": "60301",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60301.png",
+   "page": 18
+  },
+  {
+   "sku": "60302",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60302.png",
+   "page": 18
+  },
+  {
+   "sku": "60303",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60303.png",
+   "page": 18
+  },
+  {
+   "sku": "65073",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p18_65073.png",
+   "page": 18
+  },
+  {
+   "sku": "60265",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60265.png",
+   "page": 18
+  },
+  {
+   "sku": "60266",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60266.png",
+   "page": 18
+  },
+  {
+   "sku": "60267",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p18_60267.png",
+   "page": 18
+  },
+  {
+   "sku": "60341",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60341.png",
+   "page": 19
+  },
+  {
+   "sku": "60342",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60342.png",
+   "page": 19
+  },
+  {
+   "sku": "60343",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60343.png",
+   "page": 19
+  },
+  {
+   "sku": "60255",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60255.png",
+   "page": 19
+  },
+  {
+   "sku": "60256",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60256.png",
+   "page": 19
+  },
+  {
+   "sku": "60234",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60234.png",
+   "page": 19
+  },
+  {
+   "sku": "60235",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60235.png",
+   "page": 19
+  },
+  {
+   "sku": "60999",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60999.png",
+   "page": 19
+  },
+  {
+   "sku": "60373",
+   "weight": "2,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60373.png",
+   "page": 19
+  },
+  {
+   "sku": "60289",
+   "weight": "2,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60289.png",
+   "page": 19
+  },
+  {
+   "sku": "60290",
+   "weight": "2,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60290.png",
+   "page": 19
+  },
+  {
+   "sku": "60291",
+   "weight": "2,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60291.png",
+   "page": 19
+  },
+  {
+   "sku": "60981",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60981.png",
+   "page": 19
+  },
+  {
+   "sku": "60325",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60325.png",
+   "page": 19
+  },
+  {
+   "sku": "60326",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60326.png",
+   "page": 19
+  },
+  {
+   "sku": "60327",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_60327.png",
+   "page": 19
+  },
+  {
+   "sku": "61082",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p19_61082.png",
+   "page": 19
+  },
+  {
+   "sku": "65075",
+   "weight": "2,70 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,005"
+   ],
+   "mm": null,
+   "file": "p19_65075.png",
+   "page": 19
+  },
+  {
+   "sku": "60356",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60356.png",
+   "page": 20
+  },
+  {
+   "sku": "60358",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60358.png",
+   "page": 20
+  },
+  {
+   "sku": "60354",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60354.png",
+   "page": 20
+  },
+  {
+   "sku": "60243",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60243.png",
+   "page": 20
+  },
+  {
+   "sku": "60244",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60244.png",
+   "page": 20
+  },
+  {
+   "sku": "60245",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60245.png",
+   "page": 20
+  },
+  {
+   "sku": "40020",
+   "weight": "3,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p20_40020.png",
+   "page": 20
+  },
+  {
+   "sku": "40047",
+   "weight": "2,40 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_40047.png",
+   "page": 20
+  },
+  {
+   "sku": "40048",
+   "weight": "2,40 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_40048.png",
+   "page": 20
+  },
+  {
+   "sku": "40019",
+   "weight": "2,40 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_40019.png",
+   "page": 20
+  },
+  {
+   "sku": "60369",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60369.png",
+   "page": 20
+  },
+  {
+   "sku": "60370",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60370.png",
+   "page": 20
+  },
+  {
+   "sku": "60371",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60371.png",
+   "page": 20
+  },
+  {
+   "sku": "60232",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60232.png",
+   "page": 20
+  },
+  {
+   "sku": "60283",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60283.png",
+   "page": 20
+  },
+  {
+   "sku": "60284",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60284.png",
+   "page": 20
+  },
+  {
+   "sku": "60285",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60285.png",
+   "page": 20
+  },
+  {
+   "sku": "60236",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60236.png",
+   "page": 20
+  },
+  {
+   "sku": "60237",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p20_60237.png",
+   "page": 20
+  },
+  {
+   "sku": "61133",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61133.png",
+   "page": 21
+  },
+  {
+   "sku": "61134",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61134.png",
+   "page": 21
+  },
+  {
+   "sku": "61135",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61135.png",
+   "page": 21
+  },
+  {
+   "sku": "61150",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p21_61150.png",
+   "page": 21
+  },
+  {
+   "sku": "61151",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p21_61151.png",
+   "page": 21
+  },
+  {
+   "sku": "61152",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p21_61152.png",
+   "page": 21
+  },
+  {
+   "sku": "61136",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61136.png",
+   "page": 21
+  },
+  {
+   "sku": "61137",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61137.png",
+   "page": 21
+  },
+  {
+   "sku": "61153",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p21_61153.png",
+   "page": 21
+  },
+  {
+   "sku": "61154",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p21_61154.png",
+   "page": 21
+  },
+  {
+   "sku": "61144",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61144.png",
+   "page": 21
+  },
+  {
+   "sku": "61146",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61146.png",
+   "page": 21
+  },
+  {
+   "sku": "61148",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p21_61148.png",
+   "page": 21
+  },
+  {
+   "sku": "61145",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p21_61145.png",
+   "page": 21
+  },
+  {
+   "sku": "61147",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p21_61147.png",
+   "page": 21
+  },
+  {
+   "sku": "61149",
+   "weight": "4,45 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p21_61149.png",
+   "page": 21
+  },
+  {
+   "sku": "61167",
+   "weight": "2,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p22_61167.png",
+   "page": 22
+  },
+  {
+   "sku": "61164",
+   "weight": "2,87 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,01"
+   ],
+   "mm": null,
+   "file": "p22_61164.png",
+   "page": 22
+  },
+  {
+   "sku": "61086",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p22_61086.png",
+   "page": 22
+  },
+  {
+   "sku": "61143",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p22_61143.png",
+   "page": 22
+  },
+  {
+   "sku": "60363",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p22_60363.png",
+   "page": 22
+  },
+  {
+   "sku": "60364",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p22_60364.png",
+   "page": 22
+  },
+  {
+   "sku": "60380",
+   "weight": "3,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p22_60380.png",
+   "page": 22
+  },
+  {
+   "sku": "60383",
+   "weight": "3,50 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p22_60383.png",
+   "page": 22
+  },
+  {
+   "sku": "40002",
+   "weight": "2,95 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40002.png",
+   "page": 22
+  },
+  {
+   "sku": "61156",
+   "weight": "3,20 gr.",
+   "type": "PLANO",
+   "extras": [],
+   "mm": null,
+   "file": "p22_61156.png",
+   "page": 22
+  },
+  {
+   "sku": "61159",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p22_61159.png",
+   "page": 22
+  },
+  {
+   "sku": "40040",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40040.png",
+   "page": 22
+  },
+  {
+   "sku": "40041",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40041.png",
+   "page": 22
+  },
+  {
+   "sku": "40042",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40042.png",
+   "page": 22
+  },
+  {
+   "sku": "40043",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40043.png",
+   "page": 22
+  },
+  {
+   "sku": "40044",
+   "weight": "2,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40044.png",
+   "page": 22
+  },
+  {
+   "sku": "40045",
+   "weight": "2,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40045.png",
+   "page": 22
+  },
+  {
+   "sku": "40046",
+   "weight": "2,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p22_40046.png",
+   "page": 22
+  },
+  {
+   "sku": "40004",
+   "weight": "2,95 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40004.png",
+   "page": 23
+  },
+  {
+   "sku": "40005",
+   "weight": "2,95 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40005.png",
+   "page": 23
+  },
+  {
+   "sku": "40033",
+   "weight": "2,95 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40033.png",
+   "page": 23
+  },
+  {
+   "sku": "40034",
+   "weight": "2,95 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40034.png",
+   "page": 23
+  },
+  {
+   "sku": "61253",
+   "weight": "2,60 gr.",
+   "type": "PLANO",
+   "extras": [],
+   "mm": null,
+   "file": "p23_61253.png",
+   "page": 23
+  },
+  {
+   "sku": "61254",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_61254.png",
+   "page": 23
+  },
+  {
+   "sku": "40056",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40056.png",
+   "page": 23
+  },
+  {
+   "sku": "40057",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40057.png",
+   "page": 23
+  },
+  {
+   "sku": "40035",
+   "weight": "3,45 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40035.png",
+   "page": 23
+  },
+  {
+   "sku": "40049",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40049.png",
+   "page": 23
+  },
+  {
+   "sku": "40050",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40050.png",
+   "page": 23
+  },
+  {
+   "sku": "40051",
+   "weight": "1,80 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p23_40051.png",
+   "page": 23
+  },
+  {
+   "sku": "61221",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p23_61221.png",
+   "page": 23
+  },
+  {
+   "sku": "61222",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p23_61222.png",
+   "page": 23
+  },
+  {
+   "sku": "61224",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p23_61224.png",
+   "page": 23
+  },
+  {
+   "sku": "61225",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p23_61225.png",
+   "page": 23
+  },
+  {
+   "sku": "61250",
+   "weight": "2,70 gr.",
+   "type": "PLANO",
+   "extras": [],
+   "mm": null,
+   "file": "p23_61250.png",
+   "page": 23
+  },
+  {
+   "sku": "61251",
+   "weight": "2,70 gr.",
+   "type": "PLANO",
+   "extras": [],
+   "mm": null,
+   "file": "p23_61251.png",
+   "page": 23
+  },
+  {
+   "sku": "61263",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61263.png",
+   "page": 24
+  },
+  {
+   "sku": "61264",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61264.png",
+   "page": 24
+  },
+  {
+   "sku": "61266",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 6 0,03"
+   ],
+   "mm": null,
+   "file": "p24_61266.png",
+   "page": 24
+  },
+  {
+   "sku": "61267",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 6 0,03"
+   ],
+   "mm": null,
+   "file": "p24_61267.png",
+   "page": 24
+  },
+  {
+   "sku": "60815",
+   "weight": "4,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_60815.png",
+   "page": 24
+  },
+  {
+   "sku": "60816",
+   "weight": "4,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_60816.png",
+   "page": 24
+  },
+  {
+   "sku": "60927",
+   "weight": "4,40 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,01"
+   ],
+   "mm": null,
+   "file": "p24_60927.png",
+   "page": 24
+  },
+  {
+   "sku": "61296",
+   "weight": "4,50 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61296.png",
+   "page": 24
+  },
+  {
+   "sku": "40018",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_40018.png",
+   "page": 24
+  },
+  {
+   "sku": "61189",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61189.png",
+   "page": 24
+  },
+  {
+   "sku": "61190",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61190.png",
+   "page": 24
+  },
+  {
+   "sku": "61191",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61191.png",
+   "page": 24
+  },
+  {
+   "sku": "61193",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p24_61193.png",
+   "page": 24
+  },
+  {
+   "sku": "61194",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p24_61194.png",
+   "page": 24
+  },
+  {
+   "sku": "61195",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p24_61195.png",
+   "page": 24
+  },
+  {
+   "sku": "61196",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p24_61196.png",
+   "page": 24
+  },
+  {
+   "sku": "61198",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p24_61198.png",
+   "page": 24
+  },
+  {
+   "sku": "60798",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_60798.png",
+   "page": 25
+  },
+  {
+   "sku": "60799",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_60799.png",
+   "page": 25
+  },
+  {
+   "sku": "60800",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_60800.png",
+   "page": 25
+  },
+  {
+   "sku": "60801",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_60801.png",
+   "page": 25
+  },
+  {
+   "sku": "60806",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p25_60806.png",
+   "page": 25
+  },
+  {
+   "sku": "40009",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p25_40009.png",
+   "page": 25
+  },
+  {
+   "sku": "40010",
+   "weight": "2,60 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p25_40010.png",
+   "page": 25
+  },
+  {
+   "sku": "61236",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_61236.png",
+   "page": 25
+  },
+  {
+   "sku": "61237",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_61237.png",
+   "page": 25
+  },
+  {
+   "sku": "61238",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_61238.png",
+   "page": 25
+  },
+  {
+   "sku": "61239",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_61239.png",
+   "page": 25
+  },
+  {
+   "sku": "61240",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_61240.png",
+   "page": 25
+  },
+  {
+   "sku": "61241",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_61241.png",
+   "page": 25
+  },
+  {
+   "sku": "61242",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p25_61242.png",
+   "page": 25
+  },
+  {
+   "sku": "61243",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,03"
+   ],
+   "mm": null,
+   "file": "p25_61243.png",
+   "page": 25
+  },
+  {
+   "sku": "61244",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,03"
+   ],
+   "mm": null,
+   "file": "p25_61244.png",
+   "page": 25
+  },
+  {
+   "sku": "61245",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,03"
+   ],
+   "mm": null,
+   "file": "p25_61245.png",
+   "page": 25
+  },
+  {
+   "sku": "61246",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,03"
+   ],
+   "mm": null,
+   "file": "p25_61246.png",
+   "page": 25
+  },
+  {
+   "sku": "61247",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,03"
+   ],
+   "mm": null,
+   "file": "p25_61247.png",
+   "page": 25
+  },
+  {
+   "sku": "61248",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,03"
+   ],
+   "mm": null,
+   "file": "p25_61248.png",
+   "page": 25
+  },
+  {
+   "sku": "61249",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,03"
+   ],
+   "mm": null,
+   "file": "p25_61249.png",
+   "page": 25
+  }
+ ],
+ "Alianzas 4,5 mm": [
+  {
+   "sku": "60567",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60567.png",
+   "page": 26
+  },
+  {
+   "sku": "60568",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60568.png",
+   "page": 26
+  },
+  {
+   "sku": "60572",
+   "weight": "4,00 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p26_60572.png",
+   "page": 26
+  },
+  {
+   "sku": "60547",
+   "weight": "3,15 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60547.png",
+   "page": 26
+  },
+  {
+   "sku": "60548",
+   "weight": "3,15 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60548.png",
+   "page": 26
+  },
+  {
+   "sku": "60552",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p26_60552.png",
+   "page": 26
+  },
+  {
+   "sku": "60599",
+   "weight": "3,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60599.png",
+   "page": 26
+  },
+  {
+   "sku": "60600",
+   "weight": "3,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60600.png",
+   "page": 26
+  },
+  {
+   "sku": "60604",
+   "weight": "3,70 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p26_60604.png",
+   "page": 26
+  },
+  {
+   "sku": "60611",
+   "weight": "3,25 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60611.png",
+   "page": 26
+  },
+  {
+   "sku": "60612",
+   "weight": "3,25 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60612.png",
+   "page": 26
+  },
+  {
+   "sku": "65086",
+   "weight": "3,25 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p26_65086.png",
+   "page": 26
+  },
+  {
+   "sku": "60583",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60583.png",
+   "page": 26
+  },
+  {
+   "sku": "60584",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60584.png",
+   "page": 26
+  },
+  {
+   "sku": "60539",
+   "weight": "2,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60539.png",
+   "page": 26
+  },
+  {
+   "sku": "60540",
+   "weight": "2,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60540.png",
+   "page": 26
+  },
+  {
+   "sku": "60544",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p26_60544.png",
+   "page": 26
+  },
+  {
+   "sku": "60619",
+   "weight": "3,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60619.png",
+   "page": 26
+  },
+  {
+   "sku": "60620",
+   "weight": "3,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p26_60620.png",
+   "page": 26
+  },
+  {
+   "sku": "40006",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p27_40006.png",
+   "page": 27
+  },
+  {
+   "sku": "40007",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p27_40007.png",
+   "page": 27
+  },
+  {
+   "sku": "60627",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60627.png",
+   "page": 27
+  },
+  {
+   "sku": "60628",
+   "weight": "3,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60628.png",
+   "page": 27
+  },
+  {
+   "sku": "60632",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p27_60632.png",
+   "page": 27
+  },
+  {
+   "sku": "60647",
+   "weight": "3,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60647.png",
+   "page": 27
+  },
+  {
+   "sku": "60648",
+   "weight": "3,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60648.png",
+   "page": 27
+  },
+  {
+   "sku": "60650",
+   "weight": "3,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60650.png",
+   "page": 27
+  },
+  {
+   "sku": "60772",
+   "weight": "3,80 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p27_60772.png",
+   "page": 27
+  },
+  {
+   "sku": "61013",
+   "weight": "3,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_61013.png",
+   "page": 27
+  },
+  {
+   "sku": "65090",
+   "weight": "3,10 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p27_65090.png",
+   "page": 27
+  },
+  {
+   "sku": "60659",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60659.png",
+   "page": 27
+  },
+  {
+   "sku": "60660",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60660.png",
+   "page": 27
+  },
+  {
+   "sku": "60664",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p27_60664.png",
+   "page": 27
+  },
+  {
+   "sku": "60587",
+   "weight": "2,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60587.png",
+   "page": 27
+  },
+  {
+   "sku": "60588",
+   "weight": "2,90 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p27_60588.png",
+   "page": 27
+  }
+ ],
+ "Alianzas 5 mm": [
+  {
+   "sku": "60755",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60755.png",
+   "page": 28
+  },
+  {
+   "sku": "60756",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60756.png",
+   "page": 28
+  },
+  {
+   "sku": "65093",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p28_65093.png",
+   "page": 28
+  },
+  {
+   "sku": "60519",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60519.png",
+   "page": 28
+  },
+  {
+   "sku": "60520",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60520.png",
+   "page": 28
+  },
+  {
+   "sku": "60898",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60898.png",
+   "page": 28
+  },
+  {
+   "sku": "60897",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [
+    "Br. 3 0,015"
+   ],
+   "mm": null,
+   "file": "p28_60897.png",
+   "page": 28
+  },
+  {
+   "sku": "40054",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_40054.png",
+   "page": 28
+  },
+  {
+   "sku": "40055",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_40055.png",
+   "page": 28
+  },
+  {
+   "sku": "40031",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_40031.png",
+   "page": 28
+  },
+  {
+   "sku": "40032",
+   "weight": "3,30 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p28_40032.png",
+   "page": 28
+  },
+  {
+   "sku": "60639",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60639.png",
+   "page": 28
+  },
+  {
+   "sku": "60640",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60640.png",
+   "page": 28
+  },
+  {
+   "sku": "65095",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p28_65095.png",
+   "page": 28
+  },
+  {
+   "sku": "60491",
+   "weight": "4,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60491.png",
+   "page": 28
+  },
+  {
+   "sku": "60492",
+   "weight": "4,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p28_60492.png",
+   "page": 28
+  },
+  {
+   "sku": "60496",
+   "weight": "5,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,015"
+   ],
+   "mm": null,
+   "file": "p28_60496.png",
+   "page": 28
+  },
+  {
+   "sku": "61166",
+   "weight": "4,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p28_61166.png",
+   "page": 28
+  },
+  {
+   "sku": "61045",
+   "weight": "5,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_61045.png",
+   "page": 29
+  },
+  {
+   "sku": "61046",
+   "weight": "5,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_61046.png",
+   "page": 29
+  },
+  {
+   "sku": "65098",
+   "weight": "5,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p29_65098.png",
+   "page": 29
+  },
+  {
+   "sku": "61049",
+   "weight": "4,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_61049.png",
+   "page": 29
+  },
+  {
+   "sku": "61050",
+   "weight": "4,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_61050.png",
+   "page": 29
+  },
+  {
+   "sku": "60820",
+   "weight": "5,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_60820.png",
+   "page": 29
+  },
+  {
+   "sku": "60821",
+   "weight": "5,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_60821.png",
+   "page": 29
+  },
+  {
+   "sku": "65099",
+   "weight": "5,40 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 2 0,015"
+   ],
+   "mm": null,
+   "file": "p29_65099.png",
+   "page": 29
+  },
+  {
+   "sku": "60643",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_60643.png",
+   "page": 29
+  },
+  {
+   "sku": "60644",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_60644.png",
+   "page": 29
+  },
+  {
+   "sku": "65101",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,015"
+   ],
+   "mm": null,
+   "file": "p29_65101.png",
+   "page": 29
+  },
+  {
+   "sku": "40053",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_40053.png",
+   "page": 29
+  },
+  {
+   "sku": "40028",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_40028.png",
+   "page": 29
+  },
+  {
+   "sku": "60531",
+   "weight": "4,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_60531.png",
+   "page": 29
+  },
+  {
+   "sku": "60532",
+   "weight": "4,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_60532.png",
+   "page": 29
+  },
+  {
+   "sku": "60536",
+   "weight": "5,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p29_60536.png",
+   "page": 29
+  },
+  {
+   "sku": "40052",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p29_40052.png",
+   "page": 29
+  },
+  {
+   "sku": "60679",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60679.png",
+   "page": 30
+  },
+  {
+   "sku": "60680",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60680.png",
+   "page": 30
+  },
+  {
+   "sku": "60792",
+   "weight": "5,40 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p30_60792.png",
+   "page": 30
+  },
+  {
+   "sku": "60718",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60718.png",
+   "page": 30
+  },
+  {
+   "sku": "60726",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60726.png",
+   "page": 30
+  },
+  {
+   "sku": "60734",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60734.png",
+   "page": 30
+  },
+  {
+   "sku": "60746",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60746.png",
+   "page": 30
+  },
+  {
+   "sku": "60829",
+   "weight": "4,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60829.png",
+   "page": 30
+  },
+  {
+   "sku": "60694",
+   "weight": "4,20 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60694.png",
+   "page": 30
+  },
+  {
+   "sku": "61183",
+   "weight": "5,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_61183.png",
+   "page": 30
+  },
+  {
+   "sku": "61188",
+   "weight": "5,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": null,
+   "file": "p30_61188.png",
+   "page": 30
+  },
+  {
+   "sku": "60841",
+   "weight": "5,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60841.png",
+   "page": 30
+  },
+  {
+   "sku": "60842",
+   "weight": "5,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60842.png",
+   "page": 30
+  },
+  {
+   "sku": "60845",
+   "weight": "5,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p30_60845.png",
+   "page": 30
+  },
+  {
+   "sku": "60855",
+   "weight": "5,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,01"
+   ],
+   "mm": null,
+   "file": "p30_60855.png",
+   "page": 30
+  },
+  {
+   "sku": "61123",
+   "weight": "6,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61123.png",
+   "page": 31
+  },
+  {
+   "sku": "61125",
+   "weight": "6,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61125.png",
+   "page": 31
+  },
+  {
+   "sku": "61127",
+   "weight": "6,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61127.png",
+   "page": 31
+  },
+  {
+   "sku": "61124",
+   "weight": "6,10 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61124.png",
+   "page": 31
+  },
+  {
+   "sku": "61126",
+   "weight": "6,10 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61126.png",
+   "page": 31
+  },
+  {
+   "sku": "61128",
+   "weight": "6,10 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61128.png",
+   "page": 31
+  },
+  {
+   "sku": "61129",
+   "weight": "5,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61129.png",
+   "page": 31
+  },
+  {
+   "sku": "61131",
+   "weight": "5,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61131.png",
+   "page": 31
+  },
+  {
+   "sku": "61130",
+   "weight": "5,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61130.png",
+   "page": 31
+  },
+  {
+   "sku": "61132",
+   "weight": "5,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61132.png",
+   "page": 31
+  },
+  {
+   "sku": "61117",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61117.png",
+   "page": 31
+  },
+  {
+   "sku": "61119",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61119.png",
+   "page": 31
+  },
+  {
+   "sku": "61121",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p31_61121.png",
+   "page": 31
+  },
+  {
+   "sku": "61118",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61118.png",
+   "page": 31
+  },
+  {
+   "sku": "61120",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61120.png",
+   "page": 31
+  },
+  {
+   "sku": "61122",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,02"
+   ],
+   "mm": null,
+   "file": "p31_61122.png",
+   "page": 31
+  },
+  {
+   "sku": "61209",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61209.png",
+   "page": 32
+  },
+  {
+   "sku": "61210",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61210.png",
+   "page": 32
+  },
+  {
+   "sku": "61212",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61212.png",
+   "page": 32
+  },
+  {
+   "sku": "61213",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61213.png",
+   "page": 32
+  },
+  {
+   "sku": "61214",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61214.png",
+   "page": 32
+  },
+  {
+   "sku": "61215",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61215.png",
+   "page": 32
+  },
+  {
+   "sku": "61216",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61216.png",
+   "page": 32
+  },
+  {
+   "sku": "61218",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61218.png",
+   "page": 32
+  },
+  {
+   "sku": "61219",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61219.png",
+   "page": 32
+  },
+  {
+   "sku": "61220",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61220.png",
+   "page": 32
+  },
+  {
+   "sku": "61228",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 3 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61228.png",
+   "page": 32
+  },
+  {
+   "sku": "61230",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 3 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61230.png",
+   "page": 32
+  },
+  {
+   "sku": "61231",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 3 0,03"
+   ],
+   "mm": null,
+   "file": "p32_61231.png",
+   "page": 32
+  },
+  {
+   "sku": "61256",
+   "weight": "5,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61256.png",
+   "page": 32
+  },
+  {
+   "sku": "61257",
+   "weight": "5,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p32_61257.png",
+   "page": 32
+  }
+ ],
+ "Alianzas 5,5 mm": [
+  {
+   "sku": "60523",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60523.png",
+   "page": 33
+  },
+  {
+   "sku": "60524",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60524.png",
+   "page": 33
+  },
+  {
+   "sku": "60528",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p33_60528.png",
+   "page": 33
+  },
+  {
+   "sku": "60555",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60555.png",
+   "page": 33
+  },
+  {
+   "sku": "60556",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60556.png",
+   "page": 33
+  },
+  {
+   "sku": "60560",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p33_60560.png",
+   "page": 33
+  },
+  {
+   "sku": "60591",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60591.png",
+   "page": 33
+  },
+  {
+   "sku": "60592",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60592.png",
+   "page": 33
+  },
+  {
+   "sku": "60575",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60575.png",
+   "page": 33
+  },
+  {
+   "sku": "60576",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60576.png",
+   "page": 33
+  },
+  {
+   "sku": "60781",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p33_60781.png",
+   "page": 33
+  },
+  {
+   "sku": "60651",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60651.png",
+   "page": 33
+  },
+  {
+   "sku": "60652",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": null,
+   "file": "p33_60652.png",
+   "page": 33
+  },
+  {
+   "sku": "60656",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Br. 0,03"
+   ],
+   "mm": null,
+   "file": "p33_60656.png",
+   "page": 33
+  }
+ ],
+ "Alianzas Plata de Ley 925": [
+  {
+   "sku": "90092",
+   "weight": "2,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90092.png",
+   "page": 36
+  },
+  {
+   "sku": "90096",
+   "weight": "3,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90096.png",
+   "page": 36
+  },
+  {
+   "sku": "90132",
+   "weight": "2,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90132.png",
+   "page": 36
+  },
+  {
+   "sku": "90136",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90136.png",
+   "page": 36
+  },
+  {
+   "sku": "90063",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90063.png",
+   "page": 36
+  },
+  {
+   "sku": "90098",
+   "weight": "3,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90098.png",
+   "page": 36
+  },
+  {
+   "sku": "90117",
+   "weight": "2,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90117.png",
+   "page": 36
+  },
+  {
+   "sku": "90119",
+   "weight": "2,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "3,5 mm",
+   "file": "p36_90119.png",
+   "page": 36
+  },
+  {
+   "sku": "90094",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p36_90094.png",
+   "page": 36
+  },
+  {
+   "sku": "90091",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p36_90091.png",
+   "page": 36
+  },
+  {
+   "sku": "90080",
+   "weight": "3,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p36_90080.png",
+   "page": 36
+  },
+  {
+   "sku": "90075",
+   "weight": "3,40 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p36_90075.png",
+   "page": 36
+  },
+  {
+   "sku": "90076",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p36_90076.png",
+   "page": 36
+  },
+  {
+   "sku": "90077",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p36_90077.png",
+   "page": 36
+  },
+  {
+   "sku": "90085",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90085.png",
+   "page": 37
+  },
+  {
+   "sku": "90108",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p37_90108.png",
+   "page": 37
+  },
+  {
+   "sku": "90078",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p37_90078.png",
+   "page": 37
+  },
+  {
+   "sku": "90106",
+   "weight": "3,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90106.png",
+   "page": 37
+  },
+  {
+   "sku": "90089",
+   "weight": "3,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p37_90089.png",
+   "page": 37
+  },
+  {
+   "sku": "90081",
+   "weight": "3,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90081.png",
+   "page": 37
+  },
+  {
+   "sku": "90082",
+   "weight": "3,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p37_90082.png",
+   "page": 37
+  },
+  {
+   "sku": "90090",
+   "weight": "3,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p37_90090.png",
+   "page": 37
+  },
+  {
+   "sku": "90123",
+   "weight": "3,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90123.png",
+   "page": 37
+  },
+  {
+   "sku": "90107",
+   "weight": "4,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90107.png",
+   "page": 37
+  },
+  {
+   "sku": "90113",
+   "weight": "3,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90113.png",
+   "page": 37
+  },
+  {
+   "sku": "90138",
+   "weight": "3,70 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90138.png",
+   "page": 37
+  },
+  {
+   "sku": "90065",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90065.png",
+   "page": 37
+  },
+  {
+   "sku": "90048",
+   "weight": "3,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90048.png",
+   "page": 37
+  },
+  {
+   "sku": "90100",
+   "weight": "3,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90100.png",
+   "page": 37
+  },
+  {
+   "sku": "90115",
+   "weight": "3,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90115.png",
+   "page": 37
+  },
+  {
+   "sku": "90116",
+   "weight": "3,55 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90116.png",
+   "page": 37
+  },
+  {
+   "sku": "90149",
+   "weight": "1,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90149.png",
+   "page": 37
+  },
+  {
+   "sku": "90148",
+   "weight": "2,55 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90148.png",
+   "page": 37
+  },
+  {
+   "sku": "90150",
+   "weight": "2,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p37_90150.png",
+   "page": 37
+  },
+  {
+   "sku": "90097",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90097.png",
+   "page": 38
+  },
+  {
+   "sku": "90101",
+   "weight": "3,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90101.png",
+   "page": 38
+  },
+  {
+   "sku": "90129",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90129.png",
+   "page": 38
+  },
+  {
+   "sku": "90182",
+   "weight": "2,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90182.png",
+   "page": 38
+  },
+  {
+   "sku": "90135",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p38_90135.png",
+   "page": 38
+  },
+  {
+   "sku": "90140",
+   "weight": "3,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p38_90140.png",
+   "page": 38
+  },
+  {
+   "sku": "90083",
+   "weight": "3,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90083.png",
+   "page": 38
+  },
+  {
+   "sku": "90093",
+   "weight": "2,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90093.png",
+   "page": 38
+  },
+  {
+   "sku": "90040",
+   "weight": "3,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90040.png",
+   "page": 38
+  },
+  {
+   "sku": "90042",
+   "weight": "3,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90042.png",
+   "page": 38
+  },
+  {
+   "sku": "90099",
+   "weight": "3,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90099.png",
+   "page": 38
+  },
+  {
+   "sku": "90102",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90102.png",
+   "page": 38
+  },
+  {
+   "sku": "90046",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90046.png",
+   "page": 38
+  },
+  {
+   "sku": "90137",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90137.png",
+   "page": 38
+  },
+  {
+   "sku": "90095",
+   "weight": "3,65 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p38_90095.png",
+   "page": 38
+  },
+  {
+   "sku": "90141",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p38_90141.png",
+   "page": 38
+  },
+  {
+   "sku": "90134",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p38_90134.png",
+   "page": 38
+  },
+  {
+   "sku": "90139",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p38_90139.png",
+   "page": 38
+  },
+  {
+   "sku": "90130",
+   "weight": "3,60 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p38_90130.png",
+   "page": 38
+  },
+  {
+   "sku": "90187",
+   "weight": "4,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90187.png",
+   "page": 39
+  },
+  {
+   "sku": "90186",
+   "weight": "4,25 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p39_90186.png",
+   "page": 39
+  },
+  {
+   "sku": "90133",
+   "weight": "3,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90133.png",
+   "page": 39
+  },
+  {
+   "sku": "90151",
+   "weight": "2,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90151.png",
+   "page": 39
+  },
+  {
+   "sku": "90179",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90179.png",
+   "page": 39
+  },
+  {
+   "sku": "90053",
+   "weight": "4,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90053.png",
+   "page": 39
+  },
+  {
+   "sku": "90047",
+   "weight": "4,20 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p39_90047.png",
+   "page": 39
+  },
+  {
+   "sku": "90041",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90041.png",
+   "page": 39
+  },
+  {
+   "sku": "90044",
+   "weight": "3,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90044.png",
+   "page": 39
+  },
+  {
+   "sku": "90064",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90064.png",
+   "page": 39
+  },
+  {
+   "sku": "90067",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90067.png",
+   "page": 39
+  },
+  {
+   "sku": "90103",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90103.png",
+   "page": 39
+  },
+  {
+   "sku": "90183",
+   "weight": "3,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90183.png",
+   "page": 39
+  },
+  {
+   "sku": "90131",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90131.png",
+   "page": 39
+  },
+  {
+   "sku": "90152",
+   "weight": "2,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90152.png",
+   "page": 39
+  },
+  {
+   "sku": "90153",
+   "weight": "1,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90153.png",
+   "page": 39
+  },
+  {
+   "sku": "90180",
+   "weight": "3,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90180.png",
+   "page": 39
+  },
+  {
+   "sku": "90039",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90039.png",
+   "page": 39
+  },
+  {
+   "sku": "90052",
+   "weight": "3,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4 mm",
+   "file": "p39_90052.png",
+   "page": 39
+  },
+  {
+   "sku": "90066",
+   "weight": "3,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4 mm",
+   "file": "p39_90066.png",
+   "page": 39
+  },
+  {
+   "sku": "90195",
+   "weight": "3,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90195.png",
+   "page": 40
+  },
+  {
+   "sku": "90194",
+   "weight": "3,90 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4,5 mm",
+   "file": "p40_90194.png",
+   "page": 40
+  },
+  {
+   "sku": "90038",
+   "weight": "3,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90038.png",
+   "page": 40
+  },
+  {
+   "sku": "90043",
+   "weight": "3,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90043.png",
+   "page": 40
+  },
+  {
+   "sku": "90118",
+   "weight": "3,75 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90118.png",
+   "page": 40
+  },
+  {
+   "sku": "90120",
+   "weight": "3,45 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90120.png",
+   "page": 40
+  },
+  {
+   "sku": "90122",
+   "weight": "3,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90122.png",
+   "page": 40
+  },
+  {
+   "sku": "90158",
+   "weight": "4,05 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90158.png",
+   "page": 40
+  },
+  {
+   "sku": "90159",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4,5 mm",
+   "file": "p40_90159.png",
+   "page": 40
+  },
+  {
+   "sku": "90045",
+   "weight": "3,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90045.png",
+   "page": 40
+  },
+  {
+   "sku": "90121",
+   "weight": "3,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90121.png",
+   "page": 40
+  },
+  {
+   "sku": "90174",
+   "weight": "6,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90174.png",
+   "page": 40
+  },
+  {
+   "sku": "90154",
+   "weight": "4,70 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90154.png",
+   "page": 40
+  },
+  {
+   "sku": "90155",
+   "weight": "4,65 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4,5 mm",
+   "file": "p40_90155.png",
+   "page": 40
+  },
+  {
+   "sku": "90162",
+   "weight": "4,25 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "4,5 mm",
+   "file": "p40_90162.png",
+   "page": 40
+  },
+  {
+   "sku": "90163",
+   "weight": "4,25 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "4,5 mm",
+   "file": "p40_90163.png",
+   "page": 40
+  },
+  {
+   "sku": "90050",
+   "weight": "4,60 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90050.png",
+   "page": 41
+  },
+  {
+   "sku": "90054",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90054.png",
+   "page": 41
+  },
+  {
+   "sku": "90147",
+   "weight": "4,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90147.png",
+   "page": 41
+  },
+  {
+   "sku": "90189",
+   "weight": "4,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90189.png",
+   "page": 41
+  },
+  {
+   "sku": "90188",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p41_90188.png",
+   "page": 41
+  },
+  {
+   "sku": "90049",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90049.png",
+   "page": 41
+  },
+  {
+   "sku": "90070",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90070.png",
+   "page": 41
+  },
+  {
+   "sku": "90069",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p41_90069.png",
+   "page": 41
+  },
+  {
+   "sku": "90191",
+   "weight": "4,40 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90191.png",
+   "page": 41
+  },
+  {
+   "sku": "90190",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p41_90190.png",
+   "page": 41
+  },
+  {
+   "sku": "90071",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90071.png",
+   "page": 41
+  },
+  {
+   "sku": "90104",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90104.png",
+   "page": 41
+  },
+  {
+   "sku": "90105",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p41_90105.png",
+   "page": 41
+  },
+  {
+   "sku": "90110",
+   "weight": "3,90 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90110.png",
+   "page": 41
+  },
+  {
+   "sku": "90198",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p41_90198.png",
+   "page": 41
+  },
+  {
+   "sku": "90199",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p41_90199.png",
+   "page": 41
+  },
+  {
+   "sku": "90109",
+   "weight": "3,10 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90109.png",
+   "page": 42
+  },
+  {
+   "sku": "90142",
+   "weight": "7,00 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90142.png",
+   "page": 42
+  },
+  {
+   "sku": "90143",
+   "weight": "8,10 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90143.png",
+   "page": 42
+  },
+  {
+   "sku": "90144",
+   "weight": "8,15 gr.",
+   "type": "PLANA",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90144.png",
+   "page": 42
+  },
+  {
+   "sku": "90146",
+   "weight": "4,20 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90146.png",
+   "page": 42
+  },
+  {
+   "sku": "90145",
+   "weight": "4,30 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p42_90145.png",
+   "page": 42
+  },
+  {
+   "sku": "90051",
+   "weight": "4,50 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90051.png",
+   "page": 42
+  },
+  {
+   "sku": "90181",
+   "weight": "3,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90181.png",
+   "page": 42
+  },
+  {
+   "sku": "90193",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90193.png",
+   "page": 42
+  },
+  {
+   "sku": "90192",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p42_90192.png",
+   "page": 42
+  },
+  {
+   "sku": "90196",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5 mm",
+   "file": "p42_90196.png",
+   "page": 42
+  },
+  {
+   "sku": "90197",
+   "weight": "4,35 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5 mm",
+   "file": "p42_90197.png",
+   "page": 42
+  },
+  {
+   "sku": "90166",
+   "weight": "5,80 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5,5 mm",
+   "file": "p43_90166.png",
+   "page": 43
+  },
+  {
+   "sku": "90167",
+   "weight": "5,85 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5,5 mm",
+   "file": "p43_90167.png",
+   "page": 43
+  },
+  {
+   "sku": "90111",
+   "weight": "5,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5,5 mm",
+   "file": "p43_90111.png",
+   "page": 43
+  },
+  {
+   "sku": "90112",
+   "weight": "5,00 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5,5 mm",
+   "file": "p43_90112.png",
+   "page": 43
+  },
+  {
+   "sku": "90156",
+   "weight": "5,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5,5 mm",
+   "file": "p43_90156.png",
+   "page": 43
+  },
+  {
+   "sku": "90157",
+   "weight": "5,75 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5,5 mm",
+   "file": "p43_90157.png",
+   "page": 43
+  },
+  {
+   "sku": "90184",
+   "weight": "5,85 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5,5 mm",
+   "file": "p43_90184.png",
+   "page": 43
+  },
+  {
+   "sku": "90185",
+   "weight": "5,95 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5,5 mm",
+   "file": "p43_90185.png",
+   "page": 43
+  },
+  {
+   "sku": "90160",
+   "weight": "5,65 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5,5 mm",
+   "file": "p43_90160.png",
+   "page": 43
+  },
+  {
+   "sku": "90161",
+   "weight": "5,60 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5,5 mm",
+   "file": "p43_90161.png",
+   "page": 43
+  },
+  {
+   "sku": "90164",
+   "weight": "6,00 gr.",
+   "type": "CONFORT",
+   "extras": [],
+   "mm": "5,5 mm",
+   "file": "p43_90164.png",
+   "page": 43
+  },
+  {
+   "sku": "90165",
+   "weight": "5,95 gr.",
+   "type": "CONFORT",
+   "extras": [
+    "Cz"
+   ],
+   "mm": "5,5 mm",
+   "file": "p43_90165.png",
+   "page": 43
+  }
+ ]
+}
