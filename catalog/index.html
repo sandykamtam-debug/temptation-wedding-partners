@@ -168,7 +168,7 @@ footer .fmeta a{color:var(--gold);}
       <span class="flabel">Stones</span>
       <button class="chip active" data-f="stones" data-v="all">All</button>
       <button class="chip" data-f="stones" data-v="with">With Diamonds</button>
-      <button class="chip" data-f="stones" data-v="without">Plain Gold</button>
+      <button class="chip" data-f="stones" data-v="without">No Stones</button>
     </div>
     <div class="result-count" id="resultCount"></div>
   </div>
@@ -202,7 +202,7 @@ footer .fmeta a{color:var(--gold);}
         <div class="lb-swatches" id="lbSwatches"></div>
       </div>
       <div class="lb-specs" id="lbSpecs"></div>
-      <a class="lb-cta" href="#" id="lbCta" target="_blank" rel="noopener">Enquire about this ring</a>
+      <a class="lb-cta" href="https://wedding.temptationjewellery.com/#apply" id="lbCta" target="_top" rel="noopener">Enquire about this ring</a>
       <div class="lb-ticker">
         <div class="lb-ticker-track" id="lbTickerTrack">
           <span><em>Lifetime Warranty</em> on every ring <span class="sep">&#9670;</span> 9K, 14K &amp; 18K Gold &mdash; with <em>certified diamonds &amp; gemstones</em>, or classic <em>plain gold</em> <span class="sep">&#9670;</span> <em>25 years</em> of craftsmanship in Tenerife <span class="sep">&#9670;</span></span>
@@ -269,6 +269,11 @@ function metalLabel(d){
   return d.cat === 'silver' ? 'Sterling Silver' : 'Gold';
 }
 
+function variantLabel(d, v){
+  if(d.cat === 'silver') return 'Sterling Silver';
+  return COLOR_NAMES[v.c];
+}
+
 function renderGrid(){
   var grid = document.getElementById('rgrid');
   var frag = document.createDocumentFragment();
@@ -330,7 +335,7 @@ function renderGrid(){
     d.v.forEach(function(v, i){
       var sw = document.createElement('div');
       sw.className = 'swatch c-' + v.c + (i === vi ? ' active' : '');
-      sw.title = COLOR_NAMES[v.c] + (v.d ? ' · with diamond' : '');
+      sw.title = variantLabel(d, v) + (v.d ? ' · with diamond' : '');
       if(v.d){
         var dot = document.createElement('div');
         dot.className = 'diadot';
@@ -370,7 +375,7 @@ function showVariantInLightbox(d, vi){
   document.getElementById('lbImg').src = 'rings-images/' + variant.img;
   document.getElementById('lbImg').alt = metalLabel(d) + ' ' + styleLabel(d) + ' wedding band';
   document.getElementById('lbEyebrow').textContent = metalLabel(d) + ' · ' + styleLabel(d);
-  document.getElementById('lbTitle').textContent = COLOR_NAMES[variant.c] + (variant.d ? ' with Diamond' : '');
+  document.getElementById('lbTitle').textContent = variantLabel(d, variant) + (variant.d ? ' with Diamond' : '');
   document.getElementById('lbSku').textContent = 'Ref. ' + variant.sku;
 
   var specsEl = document.getElementById('lbSpecs');
@@ -378,7 +383,7 @@ function showVariantInLightbox(d, vi){
   var rows = [];
   if(d.mm) rows.push(['Width', d.mm + ' mm']);
   if(formatWeight(d.wt)) rows.push(['Approx. weight', formatWeight(d.wt)]);
-  rows.push(['Stones', variant.d ? 'Certified diamond' : 'Plain gold, no stones']);
+  rows.push(['Stones', variant.d ? 'Certified diamond' : ('Plain ' + metalLabel(d).toLowerCase() + ', no stones')]);
   rows.forEach(function(r){
     var row = document.createElement('div');
     row.innerHTML = r[0] + ': <b>' + r[1] + '</b>';
@@ -390,7 +395,7 @@ function showVariantInLightbox(d, vi){
   d.v.forEach(function(v, i){
     var sw = document.createElement('div');
     sw.className = 'swatch c-' + v.c + (i === vi ? ' active' : '');
-    sw.title = COLOR_NAMES[v.c] + (v.d ? ' · with diamond' : '');
+    sw.title = variantLabel(d, v) + (v.d ? ' · with diamond' : '');
     if(v.d){
       var dot = document.createElement('div');
       dot.className = 'diadot';
@@ -408,8 +413,6 @@ function showVariantInLightbox(d, vi){
     });
     swWrap.appendChild(sw);
   });
-
-  document.getElementById('lbCta').href = 'mailto:sandy@temptationjewellery.com?subject=' + encodeURIComponent('Enquiry — Ref. ' + variant.sku);
 }
 
 function restartTicker(){
