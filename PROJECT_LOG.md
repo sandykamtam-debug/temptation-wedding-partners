@@ -110,6 +110,39 @@ done
 
 ---
 
+## 7. Multi-language site — ES/DE/FR/IT/NL/PL drafted (Aug 15, 2026)
+
+**Status: built and staged in the repo, in draft/review state — not yet reviewed by a native speaker, not yet pushed.**
+
+### Architecture
+- Subdirectory-per-language: `/es/`, `/de/`, `/fr/`, `/it/`, `/nl/`, `/pl/`, each containing its own `index.html` (homepage) and `catalog/index.html` (catalog), mirroring the English root. English stays at `/` and `/catalog/` as before.
+- `index.html` at the repo root was **also modified** (not just the new language folders) to add: a language-switcher UI in the nav (EN/ES/DE/FR/IT/NL/PL links, current language highlighted gold), `hreflang` alternate tags for all 7 languages + `x-default` pointing at English, and a `<link rel="canonical">`. Same additions were made to `catalog/index.html`. This is the only change to the English pages — no English text content was altered.
+- Each language's `index.html` embeds its own `catalog/{lang}/index.html` via the iframe (updated `src`), so the catalog language matches the homepage language.
+- Non-English `catalog/{lang}/index.html` pages point their ring images at the canonical absolute path `/catalog/rings-images/...` instead of duplicating the 16MB image folder six times — only English `catalog/index.html` (and the shared `catalog/rings-images/` folder) needs to physically hold the JPEGs.
+- Every non-English page carries `<meta name="robots" content="noindex, follow">` so search engines won't index the draft translations until Sandy removes it after review. **Do not remove this meta tag until the native-speaker review is done and Sandy has explicitly signed off.**
+
+### Translation approach
+- All static page text (homepage + catalog page chrome — nav, headings, forms, filters, footer) was extracted from the DOM, AI-translated into all 6 languages, and re-injected via a Python/BeautifulSoup script so structure/CSS/JS were never hand-edited — only text nodes and specific attributes (`content`, `placeholder`, `alt`, `aria-label`) changed.
+- The catalog's *dynamic* UI text — the per-ring lightbox (color name, "Width", "Ref. ####", stone description, result counter "315 of 315 designs") — is rendered at runtime by inline JS reading hardcoded English string literals (`COLOR_NAMES`, `STYLE_NAMES`, `metalLabel()`, etc.), not static DOM text. Each non-English `catalog/{lang}/index.html` has these specific literals patched to the target language via exact string substitution — verified with `node --check` (syntax) and a live Playwright render (lightbox opens, shows fully translated labels, e.g. Spanish: "Oro Amarillo", "Ancho: 2.5 mm", "Piedras: oro liso, sin piedras").
+- Ring names/SKUs/measurements themselves are not translated (they're numeric/code data, not prose).
+- Formality register used per language (worth confirming with the reviewer, noted in the review spreadsheet too): informal (tú/tu/ty) for Spanish, Italian, Polish; formal (Sie/vous/u) for German, French, Dutch.
+
+### Review artifact
+- `Translation_Review.xlsx` (delivered to Sandy directly, not stored in the repo) — one tab per language, English source next to the draft translation, in page order (Homepage, then Catalog, then the catalog's dynamic JS labels listed separately since they don't appear as static page text). Includes a "Read Me First" tab flagging the trickiest judgment calls (hero tagline adaptation, "Partner's name" interpreted as the couple's fiancé(e) not a business partner, Polish plural-form simplification on the result counter, formality register per language).
+
+### What's still needed before this goes live
+1. Native-speaker review of `Translation_Review.xlsx` per language (Sandy's stated workflow: "I draft, native speaker reviews before publish").
+2. Apply any corrections directly to the relevant `{lang}/index.html` / `{lang}/catalog/index.html` files (or ask a future Claude session to do it from the marked-up spreadsheet).
+3. Remove the `noindex` robots meta tag from each language's pages once approved.
+4. `git add`, commit, and push (see §1/§6 — must be done from Sandy's Mac, cloud sessions can't push).
+5. Re-verify the brand-safety grep (§2) still passes on the new files — it wasn't expected to change anything since no new supplier content was introduced, but worth a fresh check before going live.
+
+### Files touched
+- Modified: `index.html`, `catalog/index.html` (nav switcher + hreflang only, no text changes)
+- New: `es/index.html`, `es/catalog/index.html`, `de/index.html`, `de/catalog/index.html`, `fr/index.html`, `fr/catalog/index.html`, `it/index.html`, `it/catalog/index.html`, `nl/index.html`, `nl/catalog/index.html`, `pl/index.html`, `pl/catalog/index.html`
+
+---
+
 ## Status summary
 
 | Area | Status |
@@ -127,4 +160,4 @@ done
 | Stale leftover files (`catalog/images/`, `catalog/index_preview.html`) | Removed Aug 14, 2026 (unused, not referenced anywhere) |
 | White+yellow gold two-tone blend | Not built — waiting on Sandy for reference SKUs/photos |
 | Ticker copy on the catalog popup | First draft — not yet finally approved by Sandy |
-| Multi-language site (ES/DE/FR/IT/NL/PL) | Scoped, not started |
+| Multi-language site (ES/DE/FR/IT/NL/PL) | Drafted Aug 15, 2026 — all 6 languages built and staged in the repo (§7), pending native-speaker review before going live |
