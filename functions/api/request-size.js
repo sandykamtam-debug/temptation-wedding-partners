@@ -2,7 +2,7 @@ export async function onRequestPost(context) {
   try {
     const { request, env } = context;
     const data = await request.json();
-    const { name, partner, email, phone, size, mm } = data;
+    const { name, partner, email, phone, size, mm, uk } = data;
 
     if (!name || !email || !size) {
       return new Response(JSON.stringify({ error: 'Missing required fields' }), {
@@ -18,6 +18,7 @@ export async function onRequestPost(context) {
       'Email: ' + email + '\n' +
       'Phone: ' + (phone || '—') + '\n' +
       'Ring size (EU): ' + size + '\n' +
+      'Ring size (UK): ' + (uk || '—') + '\n' +
       'Diameter: ' + (mm || '—');
 
     const resendResponse = await fetch('https://api.resend.com/emails', {
