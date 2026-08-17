@@ -750,23 +750,23 @@ footer .meta a{color:var(--gold-deep);}
       zugesandten Ringmaß vor der endgültigen Bestellung.
     </p>
 <div class="ring-size-picker reveal">
-<label class="ring-size-label" for="ringSizeSelect">Ringgröße wählen (US)</label>
+<label class="ring-size-label" for="ringSizeSelect">Ringgröße wählen (EU)</label>
 <select class="ring-size-select" id="ringSizeSelect">
 <option value="">Größe wählen…</option>
-<option value="3">3 — 14.1 mm</option>
-<option value="4">4 — 14.9 mm</option>
-<option value="5">5 — 15.7 mm</option>
-<option value="6">6 — 16.5 mm</option>
-<option value="7">7 — 17.5 mm</option>
-<option value="8">8 — 18.1 mm</option>
-<option value="9">9 — 18.9 mm</option>
-<option value="10">10 — 19.8 mm</option>
-<option value="11">11 — 20.6 mm</option>
-<option value="12">12 — 21.4 mm</option>
-<option value="13">13 — 22.2 mm</option>
-<option value="14">14 — 23.0 mm</option>
-<option value="15">15 — 23.8 mm</option>
-<option value="16">16 — 24.6 mm</option>
+<option value="44">44 — 14.1 mm</option>
+<option value="46.5">46.5 — 14.9 mm</option>
+<option value="49.5">49.5 — 15.7 mm</option>
+<option value="52">52 — 16.5 mm</option>
+<option value="55">55 — 17.5 mm</option>
+<option value="57">57 — 18.1 mm</option>
+<option value="59.5">59.5 — 18.9 mm</option>
+<option value="62">62 — 19.8 mm</option>
+<option value="64.5">64.5 — 20.6 mm</option>
+<option value="67">67 — 21.4 mm</option>
+<option value="69.5">69.5 — 22.2 mm</option>
+<option value="72.5">72.5 — 23.0 mm</option>
+<option value="75">75 — 23.8 mm</option>
+<option value="77.5">77.5 — 24.6 mm</option>
 </select>
 </div>
 <div aria-label="Ring size chart" class="ring-size-grid reveal" role="radiogroup"></div>
@@ -822,11 +822,11 @@ footer .meta a{color:var(--gold-deep);}
 <script>
 (function(){
   var RING_SIZES = [
-    {size:3,  mm:'14.1 mm'}, {size:4,  mm:'14.9 mm'}, {size:5,  mm:'15.7 mm'},
-    {size:6,  mm:'16.5 mm'}, {size:7,  mm:'17.5 mm'}, {size:8,  mm:'18.1 mm'},
-    {size:9,  mm:'18.9 mm'}, {size:10, mm:'19.8 mm'}, {size:11, mm:'20.6 mm'},
-    {size:12, mm:'21.4 mm'}, {size:13, mm:'22.2 mm'}, {size:14, mm:'23.0 mm'},
-    {size:15, mm:'23.8 mm'}, {size:16, mm:'24.6 mm'}
+    {size:44,   mm:'14.1 mm'}, {size:46.5, mm:'14.9 mm'}, {size:49.5, mm:'15.7 mm'},
+    {size:52,   mm:'16.5 mm'}, {size:55,   mm:'17.5 mm'}, {size:57,   mm:'18.1 mm'},
+    {size:59.5, mm:'18.9 mm'}, {size:62,   mm:'19.8 mm'}, {size:64.5, mm:'20.6 mm'},
+    {size:67,   mm:'21.4 mm'}, {size:69.5, mm:'22.2 mm'}, {size:72.5, mm:'23.0 mm'},
+    {size:75,   mm:'23.8 mm'}, {size:77.5, mm:'24.6 mm'}
   ];
   var grid = document.querySelector('.ring-size-grid');
   var select = document.getElementById('ringSizeSelect');
@@ -835,12 +835,15 @@ footer .meta a{color:var(--gold-deep);}
   var sizeForm = document.getElementById('sizeRequestForm');
 
   var svgTemplate = function(size){
+    var label = String(size);
+    var fontSize = label.length > 2 ? 15 : 20;
+    var y = label.length > 2 ? 93 : 95;
     return (
       '<svg class="ring-icon" viewBox="0 0 100 130" aria-hidden="true">' +
         '<polygon class="ring-diamond" points="50,6 64,24 50,42 36,24"></polygon>' +
         '<line class="ring-diamond-line" x1="36" y1="24" x2="64" y2="24"></line>' +
         '<circle class="ring-band" cx="50" cy="88" r="36"></circle>' +
-        '<text class="ring-number" x="50" y="95" text-anchor="middle">' + size + '</text>' +
+        '<text class="ring-number" x="50" y="' + y + '" text-anchor="middle" style="font-size:' + fontSize + 'px">' + label + '</text>' +
       '</svg>'
     );
   };
@@ -852,7 +855,7 @@ footer .meta a{color:var(--gold-deep);}
     card.dataset.size = item.size;
     card.setAttribute('role','radio');
     card.setAttribute('aria-checked','false');
-    card.setAttribute('aria-label', 'US size ' + item.size + ', ' + item.mm);
+    card.setAttribute('aria-label', 'EU size ' + item.size + ', ' + item.mm);
     card.innerHTML = svgTemplate(item.size) + '<span class="ring-mm">' + item.mm + '</span>';
     grid.appendChild(card);
   });
@@ -872,7 +875,7 @@ footer .meta a{color:var(--gold-deep);}
     });
     if(select.value !== String(size)) select.value = size || '';
     if(size){
-      selectedLabel.textContent = 'US ' + size + ' (' + mmLabel + ')';
+      selectedLabel.textContent = 'EU ' + size + ' (' + mmLabel + ')';
       submitBtn.disabled = false;
     } else {
       selectedLabel.textContent = 'choose a size above';

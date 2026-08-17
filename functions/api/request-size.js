@@ -17,7 +17,7 @@ export async function onRequestPost(context) {
       'Partner: ' + (partner || '—') + '\n' +
       'Email: ' + email + '\n' +
       'Phone: ' + (phone || '—') + '\n' +
-      'Ring size (US): ' + size + '\n' +
+      'Ring size (EU): ' + size + '\n' +
       'Diameter: ' + (mm || '—');
 
     const resendResponse = await fetch('https://api.resend.com/emails', {
